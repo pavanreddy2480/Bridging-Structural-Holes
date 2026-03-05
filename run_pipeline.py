@@ -18,7 +18,7 @@ from config import (
 )
 from graph_builder.hin_setup import build_sample_hin, validate_hin
 from models.structural_hole_detector import (
-    VidyaVicharHAN, StructuralHoleDetector, generate_scibert_embeddings,
+    StructuralHoleHAN, StructuralHoleDetector, generate_scibert_embeddings,
 )
 from models.train_han import train_structural_detector
 from models.inference import run_inference, save_results
@@ -35,7 +35,7 @@ def run_sample_pipeline(epochs=50, top_k=None, lambda_penalty=None, save=True):
         lambda_penalty = LAMBDA_PENALTY
     
     print("=" * 60)
-    print("  VidyaVichar: Bridging Structural Holes")
+    print("  Bridging Structural Holes")
     print("  Mid-Submission Pipeline (Sample Data)")
     print("=" * 60)
     
@@ -89,7 +89,7 @@ def run_sample_pipeline(epochs=50, top_k=None, lambda_penalty=None, save=True):
     
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         metadata=hin_data.metadata(),
     )
@@ -186,7 +186,7 @@ def run_full_pipeline(sample_size=None, epochs=None, top_k=None,
         lambda_penalty = LAMBDA_PENALTY
     
     print("=" * 60)
-    print("  VidyaVichar: Bridging Structural Holes")
+    print("  Bridging Structural Holes")
     print("  Full Pipeline (Real Data)")
     print("=" * 60)
     
@@ -219,7 +219,7 @@ def run_full_pipeline(sample_size=None, epochs=None, top_k=None,
     print(f"\nPHASE 3: Training HAN ({epochs} epochs)...")
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         metadata=hin_data.metadata(),
     )
@@ -263,7 +263,7 @@ if __name__ == "__main__":
     parser.add_argument('--lambda', type=float, default=LAMBDA_PENALTY, dest='lambda_penalty',
                         help='Semantic penalty weight')
     parser.add_argument('--sample_size', type=int, default=MAX_PAPERS_SAMPLE,
-                        help='Number of papers to sample (full mode only)')
+                        help='Number of papers to sample (full mode only). Set to 0 to use ALL 169k papers.')
     parser.add_argument('--no-save', action='store_true',
                         help='Do not save results to JSON')
     

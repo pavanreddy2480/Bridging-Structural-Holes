@@ -20,7 +20,9 @@ from config import (
 # ==========================================
 # 1. SEMANTIC EMBEDDINGS (SciBERT)
 # ==========================================
-def generate_scibert_embeddings(concept_texts, batch_size=32):
+import tqdm
+
+def generate_scibert_embeddings(concept_texts, batch_size=16): # Reduced to 16 for safety
     """
     Generates static semantic embeddings for Concept nodes using SciBERT.
     
@@ -34,11 +36,17 @@ def generate_scibert_embeddings(concept_texts, batch_size=32):
     print(f"Loading SciBERT model ({SCIBERT_MODEL_NAME})...")
     tokenizer = AutoTokenizer.from_pretrained(SCIBERT_MODEL_NAME)
     model = AutoModel.from_pretrained(SCIBERT_MODEL_NAME)
+    
+    # Force CPU. PyTorch MPS backend on Apple Silicon has severe memory leak/segfault bugs
+    # when processing thousands of texts sequentially through HuggingFace transformers.
+    device = torch.device('cpu')
+    print(f"Generating SciBERT embeddings on {device}...")
+    model = model.to(device)
     model.eval()
     
     all_embeddings = []
     
-    for i in range(0, len(concept_texts), batch_size):
+    for i in tqdm.tqdm(range(0, len(concept_texts), batch_size), desc="SciBERT Inference"):
         batch_texts = concept_texts[i:i + batch_size]
         inputs = tokenizer(
             batch_texts, 
@@ -46,23 +54,24 @@ def generate_scibert_embeddings(concept_texts, batch_size=32):
             truncation=True, 
             return_tensors="pt", 
             max_length=SCIBERT_MAX_LENGTH
-        )
+        ).to(device)
         
         with torch.no_grad():
             outputs = model(**inputs)
-            # Use the [CLS] token representation for the concept embedding
             batch_embeddings = outputs.last_hidden_state[:, 0, :]
-            all_embeddings.append(batch_embeddings)
-    
+            # Must clone to free the massive sequence-length hidden state tensor from RAM!
+            all_embeddings.append(batch_embeddings.clone())
+            
     embeddings = torch.cat(all_embeddings, dim=0)
     print(f"Generated SciBERT embeddings: shape {embeddings.shape}")
+    
     return embeddings
 
 
 # ==========================================
 # 2. HAN ARCHITECTURE
 # ==========================================
-class VidyaVicharHAN(nn.Module):
+class StructuralHoleHAN(nn.Module):
     """
     Heterogeneous Attention Network for learning structure-aware node embeddings.
     Uses HANConv from PyG which handles meta-path-based attention internally.
@@ -242,7 +251,7 @@ if __name__ == "__main__":
     print("\n3. Initializing HAN Architecture...")
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         metadata=hin_data.metadata(),
     )

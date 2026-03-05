@@ -15,7 +15,7 @@ from config import (
 )
 from graph_builder.hin_setup import build_sample_hin, validate_hin
 from models.structural_hole_detector import (
-    VidyaVicharHAN, StructuralHoleDetector, generate_scibert_embeddings,
+    StructuralHoleHAN, StructuralHoleDetector, generate_scibert_embeddings,
 )
 
 
@@ -57,7 +57,7 @@ def run_inference(hin_data, concept_names=None, concept_map=None,
     print("1. Initializing Model...")
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         metadata=hin_data.metadata(),
     )

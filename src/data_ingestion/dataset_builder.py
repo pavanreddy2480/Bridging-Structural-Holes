@@ -6,6 +6,7 @@ import torch
 import pickle
 import os
 import numpy as np
+from torch_geometric.data import HeteroData
 from torch_geometric.transforms import AddMetaPaths
 from ogb.nodeproppred import PygNodePropPredDataset
 
@@ -36,7 +37,22 @@ def load_ogbn_arxiv(data_dir=None):
         data_dir = RAW_DATA_DIR
         
     print("Downloading/Loading OGBN-ArXiv...")
-    dataset = PygNodePropPredDataset(name='ogbn-arxiv', root=data_dir)
+    
+    # PyTorch 2.6 defaults torch.load to weights_only=True, causing PyG unpickling to fail.
+    # We temporarily override it to False just for this OGB loading step.
+    import torch
+    import builtins
+    _original_load = torch.load
+    def _unsafe_load(*args, **kwargs):
+        kwargs['weights_only'] = False
+        return _original_load(*args, **kwargs)
+        
+    try:
+        torch.load = _unsafe_load
+        dataset = PygNodePropPredDataset(name='ogbn-arxiv', root=data_dir)
+    finally:
+        torch.load = _original_load
+        
     ogb_data = dataset[0]
     
     num_papers = ogb_data.num_nodes
@@ -133,11 +149,13 @@ def fetch_openalex_entities(mag_ids, sample_size=None):
     Returns:
         Tuple of (df_author_paper, df_author_institute, df_paper_concept, concept_names)
     """
-    if sample_size is not None:
+    if sample_size is not None and sample_size > 0:
         # Random sample for development
         indices = np.random.choice(len(mag_ids), min(sample_size, len(mag_ids)), replace=False)
         mag_ids = mag_ids[indices]
         print(f"Sampling {len(mag_ids)} papers for OpenAlex enrichment.")
+    else:
+        print(f"Processing ALL {len(mag_ids)} papers from OGBN-ArXiv for OpenAlex enrichment!")
     
     # Fetch from OpenAlex in batches
     works_data = fetch_all_openalex_data(mag_ids.tolist())

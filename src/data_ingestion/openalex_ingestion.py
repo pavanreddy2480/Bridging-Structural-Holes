@@ -37,22 +37,31 @@ def fetch_openalex_batch(mag_ids_chunk):
     if OPENALEX_EMAIL:
         url += f"&mailto={OPENALEX_EMAIL}"
     
-    try:
-        response = requests.get(url, timeout=30)
-        if response.status_code == 200:
-            return response.json().get('results', [])
-        elif response.status_code == 429:
-            # Rate limited – back off and retry once
-            print("Rate limited by OpenAlex, waiting 1s...")
-            time.sleep(1.0)
+    max_retries = 5
+    backoff = 2.0
+    
+    for attempt in range(max_retries):
+        try:
             response = requests.get(url, timeout=30)
             if response.status_code == 200:
                 return response.json().get('results', [])
-        print(f"Failed API call: {response.status_code}")
-        return []
-    except requests.exceptions.RequestException as e:
-        print(f"Request failed: {e}")
-        return []
+            elif response.status_code == 429:
+                # Rate limited - exponential backoff
+                sleep_time = backoff * (2 ** attempt)
+                print(f"Rate limited (429). Retrying in {sleep_time}s...")
+                time.sleep(sleep_time)
+            elif response.status_code >= 500:
+                print(f"Server error {response.status_code}. Retrying...")
+                time.sleep(2.0)
+            else:
+                print(f"Failed API call: {response.status_code}")
+                return []
+        except requests.exceptions.RequestException as e:
+            print(f"Request failed: {e}. Retrying...")
+            time.sleep(2.0)
+            
+    print(f"Exceeded max retries for batch.")
+    return []
 
 
 def fetch_all_openalex_data(mag_ids, batch_size=None):
@@ -70,17 +79,24 @@ def fetch_all_openalex_data(mag_ids, batch_size=None):
         batch_size = OPENALEX_BATCH_SIZE
         
     all_works = []
-    num_batches = (len(mag_ids) + batch_size - 1) // batch_size
     
-    for i in tqdm(range(0, len(mag_ids), batch_size), 
-                  total=num_batches, desc="Fetching OpenAlex data"):
-        chunk = mag_ids[i:i + batch_size]
-        works = fetch_openalex_batch(chunk)
-        all_works.extend(works)
+    # Split into chunks of batch_size
+    chunks = [mag_ids[i:i + batch_size] for i in range(0, len(mag_ids), batch_size)]
+    
+    import concurrent.futures
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        # Submit all batch requests
+        future_to_chunk = {executor.submit(fetch_openalex_batch, chunk): chunk for chunk in chunks}
         
-        # Rate limiting
-        time.sleep(OPENALEX_RATE_LIMIT_SLEEP)
-    
+        for future in tqdm(concurrent.futures.as_completed(future_to_chunk), 
+                           total=len(chunks), desc="Fetching OpenAlex data (Concurrent)"):
+            try:
+                works = future.result()
+                all_works.extend(works)
+            except Exception as exc:
+                print(f"A batch generated an exception: {exc}")
+                
     print(f"Fetched {len(all_works)} works from OpenAlex.")
     return all_works
 

@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.join(PROJECT_ROOT, 'src'))
 
 from graph_builder.hin_setup import build_sample_hin, validate_hin
 from models.structural_hole_detector import (
-    VidyaVicharHAN, StructuralHoleDetector,
+    StructuralHoleHAN, StructuralHoleDetector,
 )
 from models.train_han import extract_positive_concept_pairs, train_structural_detector
 
@@ -57,7 +57,7 @@ def test_han_forward_pass():
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     out_dim = 32
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         hidden_channels=64,
         out_channels=out_dim,
@@ -90,7 +90,7 @@ def test_score_computation():
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     out_dim = 32
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         hidden_channels=64,
         out_channels=out_dim,
@@ -152,7 +152,7 @@ def test_training_loop():
     in_channels_dict = {nt: hin_data[nt].x.size(1) for nt in hin_data.node_types}
     out_dim = 32
     
-    han = VidyaVicharHAN(
+    han = StructuralHoleHAN(
         in_channels_dict=in_channels_dict,
         hidden_channels=64,
         out_channels=out_dim,

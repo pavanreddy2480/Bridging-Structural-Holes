@@ -20,8 +20,8 @@ for d in [RAW_DATA_DIR, PROCESSED_DATA_DIR, CACHE_DIR]:
 # OPENALEX API SETTINGS
 # ==========================================
 OPENALEX_BASE_URL = "https://api.openalex.org"
-OPENALEX_BATCH_SIZE = 50  # Number of IDs per API request (max ~50 for filter)
-OPENALEX_RATE_LIMIT_SLEEP = 0.1  # Seconds between API calls
+OPENALEX_BATCH_SIZE = 100  # Multi-threaded batch requests
+OPENALEX_RATE_LIMIT_SLEEP = 0.0  # Removing sleep since ThreadPool handles rate effectively
 OPENALEX_CONCEPT_SCORE_THRESHOLD = 0.6  # Minimum relevance score for concepts
 # Set your email for polite pool (higher rate limits)
 OPENALEX_EMAIL = None  # e.g., "your.email@example.com"
@@ -60,7 +60,7 @@ SCIBERT_MAX_LENGTH = 128
 # INFERENCE SETTINGS
 # ==========================================
 TOP_K_HOLES = 10  # Number of top structural holes to report
-WEIGHTS_FILENAME = "vidyavichar_han_weights.pt"
+WEIGHTS_FILENAME = "structural_hole_han_weights.pt"
 
 # ==========================================
 # DATA SAMPLING (for development/mid-submission)
