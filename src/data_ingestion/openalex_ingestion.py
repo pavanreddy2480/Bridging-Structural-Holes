@@ -115,8 +115,12 @@ def extract_entities_from_works(works_data):
     concept_names = {}  # concept_id -> display_name
     
     for work in works_data:
-        paper_id = work.get('ids', {}).get('mag')
-        if not paper_id:
+        paper_id_raw = work.get('ids', {}).get('mag')
+        if not paper_id_raw:
+            continue
+        try:
+            paper_id = int(paper_id_raw)
+        except ValueError:
             continue
             
         # Extract Concepts (C)

@@ -60,3 +60,5 @@ model_weights/
 .pytest_cache/
 
 *.pdf
+
+*.json

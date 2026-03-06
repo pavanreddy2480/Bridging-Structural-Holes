@@ -37,7 +37,7 @@ HAN_DROPOUT = 0.2
 
 # Training
 TRAIN_EPOCHS = 100
-TRAIN_LR = 0.005
+TRAIN_LR = 0.001
 TRAIN_WEIGHT_DECAY = 1e-4
 LAMBDA_PENALTY = 0.8  # Semantic penalty weight in S(c_i, c_j)
 

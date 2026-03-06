@@ -155,17 +155,26 @@ def train_structural_detector(detector, hin_data, epochs=None, lr=None,
         pos_scores = detector.compute_reachability_edges(h_concepts, pos_edge_index)
         neg_scores = detector.compute_reachability_edges(h_concepts, neg_edge_index)
         
-        # 4. BPR Loss: push positive scores above negative scores
-        loss = -torch.log(torch.sigmoid(pos_scores - neg_scores) + 1e-15).mean()
+        import torch.nn.functional as F
+        
+        # 4. Numerically stable BPR Loss
+        loss = -F.logsigmoid(pos_scores - neg_scores).mean()
         
         # 5. Backward pass
+        if torch.isnan(loss):
+            print("NaN loss detected! Stopping training to prevent weights corruption.")
+            break
+            
         loss.backward()
         
         # Gradient clipping for stability
-        torch.nn.utils.clip_grad_norm_(detector.parameters(), max_norm=1.0)
+        torch.nn.utils.clip_grad_norm_(detector.parameters(), max_norm=0.5)
         
         optimizer.step()
-        scheduler.step(loss.item())
+        
+        # Only step scheduler if loss is valid
+        if not torch.isnan(loss):
+            scheduler.step(loss.item())
         
         losses.append(loss.item())
         
