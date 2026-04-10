@@ -1,0 +1,280 @@
+[
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "embedding_similarity": 0.953715,
+    "structural_overlap": 0.0698,
+    "label_A": 27,
+    "label_B": 16,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 24,
+      "target_domain": "cs.MA",
+      "evidence_papers": [
+        "2198225532",
+        "2808746463",
+        "2592457170"
+      ],
+      "domain_A": "cs.NA",
+      "domain_B": "cs.GL",
+      "interpretation": "Paper B (domain: cs.GL) uses the same algorithm as Paper A (domain: cs.NA). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+    }
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2617415363",
+    "embedding_similarity": 0.949913,
+    "structural_overlap": 0.122,
+    "label_A": 27,
+    "label_B": 26,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 24,
+      "target_domain": "cs.MA",
+      "evidence_papers": [
+        "2198225532",
+        "2808746463",
+        "2592457170"
+      ],
+      "domain_A": "cs.NA",
+      "domain_B": "cs.MS",
+      "interpretation": "Paper B (domain: cs.MS) uses the same algorithm as Paper A (domain: cs.NA). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+    }
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2952495822",
+    "embedding_similarity": 0.94136,
+    "structural_overlap": 0.0732,
+    "label_A": 24,
+    "label_B": 27,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 13,
+      "target_domain": "cs.DS",
+      "evidence_papers": [
+        "2028759731"
+      ],
+      "domain_A": "cs.MA",
+      "domain_B": "cs.NA",
+      "interpretation": "Paper B (domain: cs.NA) uses the same algorithm as Paper A (domain: cs.MA). Paper A connects to cs.DS problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.DS."
+    }
+  },
+  {
+    "paper_id_A": "2952495822",
+    "paper_id_B": "203374064",
+    "embedding_similarity": 0.918795,
+    "structural_overlap": 0.0526,
+    "label_A": 27,
+    "label_B": 5,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "A_into_B_domain",
+      "source_paper": "A",
+      "target_label": 15,
+      "target_domain": "cs.FL",
+      "evidence_papers": [
+        "184697959"
+      ],
+      "domain_A": "cs.NA",
+      "domain_B": "cs.CL",
+      "interpretation": "Paper A (domain: cs.NA) uses the same algorithm as Paper B (domain: cs.CL). Paper B connects to cs.FL problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.FL."
+    }
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "203374064",
+    "embedding_similarity": 0.909233,
+    "structural_overlap": 0.0769,
+    "label_A": 27,
+    "label_B": 5,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 24,
+      "target_domain": "cs.MA",
+      "evidence_papers": [
+        "2198225532",
+        "2808746463",
+        "2592457170"
+      ],
+      "domain_A": "cs.NA",
+      "domain_B": "cs.CL",
+      "interpretation": "Paper B (domain: cs.CL) uses the same algorithm as Paper A (domain: cs.NA). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+    }
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "203374064",
+    "embedding_similarity": 0.909233,
+    "structural_overlap": 0.0769,
+    "label_A": 27,
+    "label_B": 5,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "A_into_B_domain",
+      "source_paper": "A",
+      "target_label": 15,
+      "target_domain": "cs.FL",
+      "evidence_papers": [
+        "184697959"
+      ],
+      "domain_A": "cs.NA",
+      "domain_B": "cs.CL",
+      "interpretation": "Paper A (domain: cs.NA) uses the same algorithm as Paper B (domain: cs.CL). Paper B connects to cs.FL problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.FL."
+    }
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2939489045",
+    "embedding_similarity": 0.908866,
+    "structural_overlap": 0.075,
+    "label_A": 31,
+    "label_B": 16,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 24,
+      "target_domain": "cs.MA",
+      "evidence_papers": [
+        "2752796333",
+        "2242818861",
+        "2951659295"
+      ],
+      "domain_A": "cs.OS",
+      "domain_B": "cs.GL",
+      "interpretation": "Paper B (domain: cs.GL) uses the same algorithm as Paper A (domain: cs.OS). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+    }
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2939489045",
+    "embedding_similarity": 0.908866,
+    "structural_overlap": 0.075,
+    "label_A": 31,
+    "label_B": 16,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "A_into_B_domain",
+      "source_paper": "A",
+      "target_label": 6,
+      "target_domain": "cs.CR",
+      "evidence_papers": [
+        "2235775875"
+      ],
+      "domain_A": "cs.OS",
+      "domain_B": "cs.GL",
+      "interpretation": "Paper A (domain: cs.OS) uses the same algorithm as Paper B (domain: cs.GL). Paper B connects to cs.CR problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.CR."
+    }
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2985102825",
+    "embedding_similarity": 0.90769,
+    "structural_overlap": 0.0816,
+    "label_A": 31,
+    "label_B": 27,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 24,
+      "target_domain": "cs.MA",
+      "evidence_papers": [
+        "2752796333",
+        "2242818861",
+        "2951659295"
+      ],
+      "domain_A": "cs.OS",
+      "domain_B": "cs.NA",
+      "interpretation": "Paper B (domain: cs.NA) uses the same algorithm as Paper A (domain: cs.OS). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+    }
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2985102825",
+    "embedding_similarity": 0.906993,
+    "structural_overlap": 0.0588,
+    "label_A": 24,
+    "label_B": 27,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 13,
+      "target_domain": "cs.DS",
+      "evidence_papers": [
+        "2028759731"
+      ],
+      "domain_A": "cs.MA",
+      "domain_B": "cs.NA",
+      "interpretation": "Paper B (domain: cs.NA) uses the same algorithm as Paper A (domain: cs.MA). Paper A connects to cs.DS problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.DS."
+    }
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2131966673",
+    "embedding_similarity": 0.903358,
+    "structural_overlap": 0.0656,
+    "label_A": 30,
+    "label_B": 32,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "B_into_A_domain",
+      "source_paper": "B",
+      "target_label": 16,
+      "target_domain": "cs.GL",
+      "evidence_papers": [
+        "2619947201",
+        "2953212746",
+        "2760103357"
+      ],
+      "domain_A": "cs.OH",
+      "domain_B": "cs.PF",
+      "interpretation": "Paper B (domain: cs.PF) uses the same algorithm as Paper A (domain: cs.OH). Paper A connects to cs.GL problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.GL."
+    }
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2131966673",
+    "embedding_similarity": 0.903358,
+    "structural_overlap": 0.0656,
+    "label_A": 30,
+    "label_B": 32,
+    "parser": "stanza",
+    "prediction": {
+      "status": "missing_link_found",
+      "direction": "A_into_B_domain",
+      "source_paper": "A",
+      "target_label": 23,
+      "target_domain": "cs.LO",
+      "evidence_papers": [
+        "2534699084",
+        "1672411727",
+        "1978486486"
+      ],
+      "domain_A": "cs.OH",
+      "domain_B": "cs.PF",
+      "interpretation": "Paper A (domain: cs.OH) uses the same algorithm as Paper B (domain: cs.PF). Paper B connects to cs.LO problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.LO."
+    }
+  }
+]
