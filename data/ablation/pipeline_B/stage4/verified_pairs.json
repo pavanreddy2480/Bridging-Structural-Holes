@@ -1,0 +1,26 @@
+[
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "embedding_similarity": 0.953715,
+    "structural_overlap": 0.0833,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2951659998",
+    "embedding_similarity": 0.92673,
+    "structural_overlap": 0.0833,
+    "label_A": 30,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2939489045",
+    "embedding_similarity": 0.908866,
+    "structural_overlap": 0.0588,
+    "label_A": 31,
+    "label_B": 16
+  }
+]

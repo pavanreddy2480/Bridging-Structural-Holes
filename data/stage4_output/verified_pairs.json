@@ -1,0 +1,74 @@
+[
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2950181023",
+    "embedding_similarity": 0.969971,
+    "structural_overlap": 0.0714,
+    "label_A": 16,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2789744648",
+    "embedding_similarity": 0.96508,
+    "structural_overlap": 0.0769,
+    "label_A": 16,
+    "label_B": 17
+  },
+  {
+    "paper_id_A": "2789744648",
+    "paper_id_B": "2950181023",
+    "embedding_similarity": 0.954133,
+    "structural_overlap": 0.1667,
+    "label_A": 17,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "embedding_similarity": 0.953715,
+    "structural_overlap": 0.0833,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2789744648",
+    "paper_id_B": "2917805034",
+    "embedding_similarity": 0.951338,
+    "structural_overlap": 0.0952,
+    "label_A": 17,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2985102825",
+    "paper_id_B": "2079758471",
+    "embedding_similarity": 0.951073,
+    "structural_overlap": 0.0625,
+    "label_A": 27,
+    "label_B": 23
+  },
+  {
+    "paper_id_A": "2619387693",
+    "paper_id_B": "2991734025",
+    "embedding_similarity": 0.949076,
+    "structural_overlap": 0.0588,
+    "label_A": 19,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2950628590",
+    "paper_id_B": "2917805034",
+    "embedding_similarity": 0.939738,
+    "structural_overlap": 0.1333,
+    "label_A": 16,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2619387693",
+    "paper_id_B": "2972165073",
+    "embedding_similarity": 0.936435,
+    "structural_overlap": 0.0667,
+    "label_A": 19,
+    "label_B": 16
+  }
+]
