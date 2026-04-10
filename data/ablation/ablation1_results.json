@@ -1,0 +1,170 @@
+{
+  "ablation": "Stage 1 \u2014 Global TF-IDF vs. Label-Stratified Sampling",
+  "timestamp": "2026-04-10T12:48:08.004169",
+  "branch": "ablation/stage1-stratified",
+  "pipeline_A": {
+    "metric1": {
+      "gini_coefficient": 0.7647,
+      "unique_labels": 37,
+      "top3_concentration": 66.6,
+      "score_mean": 2.7339,
+      "score_min": 2.5826,
+      "score_max": 3.4956,
+      "label_counts": {
+        "cs.MA": 499,
+        "cs.GL": 443,
+        "cs.NE": 389,
+        "cs.NA": 86,
+        "cs.RO": 77,
+        "cs.CY": 61,
+        "cs.HC": 60,
+        "cs.DC": 54,
+        "cs.CL": 39,
+        "cs.OH": 34,
+        "cs.DS": 32,
+        "cs.MS": 28,
+        "cs.SD": 20,
+        "cs.CV": 19,
+        "cs.CG": 18,
+        "cs.AI": 18,
+        "cs.OS": 16,
+        "cs.MM": 15,
+        "cs.GR": 14,
+        "cs.AR": 11,
+        "cs.IR": 11,
+        "cs.DL": 10,
+        "cs.SY": 8,
+        "cs.LO": 5,
+        "cs.SE": 5,
+        "cs.GT": 4,
+        "cs.LG": 4,
+        "cs.PF": 4,
+        "cs.DB": 3,
+        "cs.IT": 3,
+        "cs.CR": 2,
+        "cs.CE": 2,
+        "cs.SI": 2,
+        "cs.FL": 1,
+        "cs.CC": 1,
+        "cs.PL": 1,
+        "cs.NI": 1
+      }
+    },
+    "metric2": {
+      "mean_top_decile_overlap": 0.1667,
+      "distribution": {
+        "min": 0.0588,
+        "p25": 0.0667,
+        "median": 0.0769,
+        "p75": 0.0952,
+        "max": 0.1667
+      },
+      "pairs_above_020": 0,
+      "total_verified": 9
+    },
+    "metric3": {
+      "unique_domain_pair_types": 6,
+      "total_predictions": 12,
+      "domain_pairs": [
+        [
+          "cs.GL",
+          "cs.GR"
+        ],
+        [
+          "cs.GL",
+          "cs.HC"
+        ],
+        [
+          "cs.GL",
+          "cs.MA"
+        ],
+        [
+          "cs.GL",
+          "cs.NA"
+        ],
+        [
+          "cs.GR",
+          "cs.MA"
+        ],
+        [
+          "cs.LO",
+          "cs.NA"
+        ]
+      ]
+    }
+  },
+  "pipeline_B": {
+    "metric1": {
+      "gini_coefficient": 0.7477,
+      "unique_labels": 32,
+      "top3_concentration": 69.0,
+      "score_mean": 2.8402,
+      "score_min": 2.6925,
+      "score_max": 3.4956,
+      "label_counts": {
+        "cs.MA": 254,
+        "cs.GL": 231,
+        "cs.NE": 205,
+        "cs.NA": 46,
+        "cs.RO": 37,
+        "cs.CY": 25,
+        "cs.DC": 25,
+        "cs.CL": 24,
+        "cs.HC": 24,
+        "cs.DS": 16,
+        "cs.MS": 13,
+        "cs.OH": 11,
+        "cs.AI": 9,
+        "cs.CV": 9,
+        "cs.MM": 9,
+        "cs.IR": 8,
+        "cs.AR": 7,
+        "cs.CG": 7,
+        "cs.OS": 7,
+        "cs.SD": 7,
+        "cs.GR": 4,
+        "cs.SY": 4,
+        "cs.DL": 3,
+        "cs.GT": 3,
+        "cs.LO": 3,
+        "cs.DB": 2,
+        "cs.IT": 2,
+        "cs.CE": 1,
+        "cs.CR": 1,
+        "cs.LG": 1,
+        "cs.PF": 1,
+        "cs.SE": 1
+      }
+    },
+    "metric2": {
+      "mean_top_decile_overlap": 0.0833,
+      "distribution": {
+        "min": 0.0588,
+        "p25": 0.0711,
+        "median": 0.0833,
+        "p75": 0.0833,
+        "max": 0.0833
+      },
+      "pairs_above_020": 0,
+      "total_verified": 3
+    },
+    "metric3": {
+      "unique_domain_pair_types": 3,
+      "total_predictions": 4,
+      "domain_pairs": [
+        [
+          "cs.GL",
+          "cs.NA"
+        ],
+        [
+          "cs.GL",
+          "cs.OH"
+        ],
+        [
+          "cs.GL",
+          "cs.OS"
+        ]
+      ]
+    }
+  }
+}
