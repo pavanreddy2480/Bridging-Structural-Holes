@@ -1,8 +1,3 @@
-# src/stage3_pair_extraction.py
-# PATCHES APPLIED:
-#   Fix 4: Citation chasm filter — discard pairs that already cite each other
-#   Fix 9: Unmapped papers (pid not in OGBN graph) now SKIPPED, not promoted as holes
-
 import json
 import os
 import torch

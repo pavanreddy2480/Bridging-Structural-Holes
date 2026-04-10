@@ -1,10 +1,3 @@
-# src/stage1_tfidf_filter.py
-# PATCHES APPLIED:
-#   Fix 6:  Title column carried through pipeline
-#   Fix 16 (v5.0): NLTK SnowballStemmer replaces naive suffix expansion.
-#           Correctly handles: classify→classified, match→matches,
-#           embed→embedded, infer→inferred, and all other irregular forms.
-
 import re
 import pandas as pd
 import numpy as np

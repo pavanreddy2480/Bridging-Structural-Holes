@@ -1,9 +1,9 @@
 """
 Plot radar charts and write scores.md from Claude-assigned scores.
-Run after generate_vanilla.py has created all hypothesis files.
+Run after vanilla_generator.py has created all hypothesis files.
 
 Usage:
-    python3 -m src.plot_scores
+    python -m src.experiments.comparison.plot_scores
 """
 import json, math, sys
 from pathlib import Path
@@ -12,7 +12,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).parent.parent.parent.parent
 DATA = ROOT / "data"
 OUT  = DATA / "comparison"
 OUT.mkdir(parents=True, exist_ok=True)

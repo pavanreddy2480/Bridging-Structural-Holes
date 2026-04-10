@@ -1,5 +1,5 @@
-# src/stage1_ablation_stratified.py
-# ABLATION 1 — Label-Stratified Stage 1 with Density Floor
+# src/experiments/ablation/stage1_stratified.py
+# Ablation Study 1 — Label-Stratified Stage 1 with Density Floor
 #
 # Replaces the global TF-IDF top-2000 cut (stage1_tfidf_filter.py) with a
 # round-robin selection that guarantees representation from every OGBN domain

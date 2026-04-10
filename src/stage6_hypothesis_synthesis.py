@@ -1,12 +1,3 @@
-# src/stage6_hypothesis_synthesis.py
-# PATCHES APPLIED:
-#   Fix 6:  Paper titles included in synthesis prompt
-#   Fix 11: Both papers' distilled logic strings passed to GPT-4o (not only Paper A's)
-#   Fix 13: Top-5 hypotheses ranked by combined score = structural_overlap × embedding_similarity
-#   Fix 19 (v5.0): Pair deduplication before top_n selection — bidirectional Fix 7 can
-#           produce 2 entries per pair with identical scores; without dedup, the final
-#           report only covers 2-3 distinct structural holes instead of top_n unique ones.
-
 import json
 import os
 import requests
@@ -19,7 +10,6 @@ log = logging.getLogger(__name__)
 OLLAMA_URL   = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "qwen3.5:2b"
 
-# FIX 11: SYNTHESIS_PROMPT now includes BOTH distilled logic strings
 SYNTHESIS_PROMPT = """You are a scientific research hypothesis generator. You have been given a mathematically verified cross-domain structural hole.
 
 PAPER A:
@@ -78,7 +68,6 @@ def generate_hypothesis(
     title_A, abs_A = meta.get(pid_A, ("Unknown Title", "No abstract available."))
     title_B, abs_B = meta.get(pid_B, ("Unknown Title", "No abstract available."))
 
-    # FIX 11: Retrieve BOTH distilled logic strings independently
     logic_A = distilled.get(pid_A, "Distilled logic not available for Paper A.")
     logic_B = distilled.get(pid_B, "Distilled logic not available for Paper B.")
 
@@ -98,8 +87,8 @@ def generate_hypothesis(
         paper_id_B        = pid_B,
         domain_B          = OGBN_LABEL_TO_CATEGORY.get(pred["label_B"], f"label_{pred['label_B']}"),
         abstract_B        = str(abs_B)[:700],
-        distilled_logic_A = logic_A,   # FIX 11
-        distilled_logic_B = logic_B,   # FIX 11
+        distilled_logic_A = logic_A,
+        distilled_logic_B = logic_B,
         source_paper      = source_paper,
         source_domain     = source_domain,
         target_domain     = p.get("target_domain", "Unknown"),
@@ -127,16 +116,11 @@ def generate_hypothesis(
 def run_stage6(predictions: list = None, top_n: int = 5) -> str:
     """
     INPUT:  Predictions from Stage 5 + Stage 2 distilled logic + Stage 1 metadata
-    OUTPUT: hypotheses.md with top_n research hypotheses
+    OUTPUT: data/stage6_output/hypotheses.md with top_n research hypotheses
 
-    FIX 13: Rankings use combined_score = structural_overlap × embedding_similarity
-            rather than embedding_similarity alone.
-    FIX 19 (v5.0): Deduplicate by pair ID before taking top_n.
-            Bidirectional prediction (Fix 7) generates 2 entries per pair
-            (B_into_A_domain and A_into_B_domain) with identical combined scores.
-            Without deduplication, the top-N list fills up with the same 2–3
-            paper pairs in opposite directions, severely limiting diversity.
-            Fix: keep only the highest-scoring direction per unique {pid_A, pid_B} pair.
+    Ranking: combined_score = structural_overlap × embedding_similarity
+    Deduplication: bidirectional prediction generates 2 entries per pair; only the
+    highest-scoring direction per unique (pid_A, pid_B) pair is kept.
     """
     if predictions is None:
         with open("data/stage5_output/missing_links.json") as f:

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-src/run_ablation1.py
-====================
+src/experiments/ablation/ablation1.py
+======================================
 Ablation Study 1 — Stage 1: Global TF-IDF Ranking vs. Label-Stratified Sampling
 Both pipelines use spaCy as the parser (Stage 4 is held constant).
 
@@ -21,8 +21,8 @@ Safety guarantee:
   immediately after each stage by copying from the pre-saved Pipeline A backup.
 
 Usage:
-  python src/run_ablation1.py
-  python src/run_ablation1.py --resume   # Skip stages already completed
+  python -m src.experiments.ablation.ablation1
+  python -m src.experiments.ablation.ablation1 --resume
 """
 
 import argparse
@@ -266,7 +266,7 @@ def run_stage1_B(resume: bool) -> pd.DataFrame:
         return pd.read_csv(str(out))
 
     banner("PIPELINE B — Stage 1: Label-Stratified Selection")
-    from src.stage1_ablation_stratified import run_stage1_stratified
+    from src.experiments.ablation.stage1_stratified import run_stage1_stratified
     return run_stage1_stratified(output_path=str(out))
 
 

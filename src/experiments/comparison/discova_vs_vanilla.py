@@ -6,14 +6,13 @@ For each pipeline (main + ablations A/B/C/D):
   2. Generate 5 Vanilla hypotheses via Ollama (title + abstract only, no context leakage)
   3. Score all 10 via Claude API on 6 metrics (Novelty, Significance, Effectiveness,
      Clarity, Feasibility, Average)
-  4. Draw comparison radar chart  (DISCOVA vs Vanilla)
+  4. Draw comparison radar chart (DISCOVA vs Vanilla)
 
 Context isolation: each Ollama call is completely independent — no conversation history,
 no batch prompting — so vanilla hypotheses cannot learn from earlier outputs.
 
-Run:
-    cd /home/abhireddy/Desktop/inlp/PROJ
-    python -m src.compare_discova_vanilla
+Usage:
+    python -m src.experiments.comparison.discova_vs_vanilla
 """
 
 from __future__ import annotations
@@ -45,7 +44,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── Paths ──────────────────────────────────────────────────────────────────
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).parent.parent.parent.parent
 DATA = ROOT / "data"
 OUTPUTS = ROOT / "outputs"
 

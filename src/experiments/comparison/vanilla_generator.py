@@ -1,11 +1,15 @@
 """
 Generate vanilla + ablation DISCOVA hypotheses for comparison.
 Saves each hypothesis to a JSON file for manual scoring.
+
+Usage:
+    python -m src.experiments.comparison.vanilla_generator
+    python -m src.experiments.comparison.vanilla_generator --targets A_vanilla B_discova
 """
 import json, sys, time, requests, pandas as pd
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).parent.parent.parent.parent
 sys.path.insert(0, str(ROOT))
 from config.settings import OGBN_LABEL_TO_CATEGORY
 

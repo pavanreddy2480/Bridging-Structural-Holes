@@ -1,10 +1,3 @@
-# src/stage5_link_prediction.py
-# PATCHES APPLIED:
-#   Fix 7:  Bidirectional missing link detection — BOTH A→missing and B→missing computed
-#   Fix 8:  Home label exclusion removed — direct A→B or B→A domain transfer is valid
-#   Fix 10: Deterministic tie-breaking via alphabetic sort of category names
-#   Fix 12: Adjacency dict pre-built once for O(1) neighbor lookup (was O(E) per node)
-
 import json
 import os
 import torch

@@ -1,10 +1,3 @@
-# src/stage2_llm_distillation.py
-# PATCHES APPLIED:
-#   Fix 1:      Tom & Jerry prompt replaced with Parameter X / System Y prompt.
-#   Fix OLLAMA: Uses local Ollama qwen3.5:2b with think=false (fast, no rate limits).
-#   Fix RESUME: Skips papers already distilled; only processes fallback entries.
-#   Fix INCR:   Saves progress every SAVE_EVERY papers (crash-safe).
-
 import asyncio
 import aiohttp
 import json

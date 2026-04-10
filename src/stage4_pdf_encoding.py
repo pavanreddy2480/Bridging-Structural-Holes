@@ -1,14 +1,3 @@
-# src/stage4_pdf_encoding.py
-# PATCHES APPLIED:
-#   Fix 2:  Block-based PDF extraction (two-column ArXiv layout) — in graph_utils.py
-#   Fix 3:  Stop-verb filter in Jaccard computation — in graph_utils.py
-#   Fix 5:  Cutoff-keyword method section boundary — in graph_utils.py
-#   Fix 14: METHOD_SECTION_KEYWORDS tightened — in graph_utils.py
-#   Fix 17: Regex word-boundary header detection — in graph_utils.py
-#   Fix 18: S2 API iterative retry (no recursion) — in api_client.py
-#   Fix 20 (v5.0): Word-level spaCy truncation — in graph_utils.py
-#   Fix 22: PDFs saved to data/raw/papers/ for archival & reproducibility
-
 import json
 import pickle
 import os

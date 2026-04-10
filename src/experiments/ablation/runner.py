@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-# src/ablation_runner.py
+# src/experiments/ablation/runner.py
 # Orchestrates the complete 2×2 ablation study.
 # Runs Pipeline configurations C and D (Stanza parser) and aggregates
 # all four pipeline results into a comparison table.
 #
 # Pipeline map:
 #   A: Global TF-IDF + spaCy   [existing production outputs]
-#   B: Stratified + spaCy      [data/ablation/pipeline_B/ — run by run_ablation1.py]
-#   C: Global TF-IDF + Stanza  [data/ablation/pipeline_C/ — NEW]
-#   D: Stratified + Stanza     [data/ablation/pipeline_D/ — NEW, reuses B Stage 1-3]
+#   B: Stratified + spaCy      [data/ablation/pipeline_B/ — run by ablation1.py]
+#   C: Global TF-IDF + Stanza  [data/ablation/pipeline_C/]
+#   D: Stratified + Stanza     [data/ablation/pipeline_D/ — reuses B Stage 1-3]
 #
 # Usage:
-#   python -m src.ablation_runner              # Run C + D, aggregate all 4
-#   python -m src.ablation_runner --only C     # Run only C
-#   python -m src.ablation_runner --only D     # Run only D
-#   python -m src.ablation_runner --only C D   # Run C and D
+#   python -m src.experiments.ablation.runner              # Run C + D, aggregate all 4
+#   python -m src.experiments.ablation.runner --only C     # Run only C
+#   python -m src.experiments.ablation.runner --only D     # Run only D
+#   python -m src.experiments.ablation.runner --only C D   # Run C and D
 
 import argparse
 import json
@@ -45,7 +45,7 @@ logging.basicConfig(
     datefmt = "%H:%M:%S",
     handlers = [
         logging.StreamHandler(),
-        logging.FileHandler("data/ablation/ablation_runner.log", mode="a"),
+        logging.FileHandler("data/ablation/runner.log", mode="a"),
     ]
 )
 log = logging.getLogger("ablation_runner")

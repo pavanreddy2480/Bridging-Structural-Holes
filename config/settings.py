@@ -1,6 +1,3 @@
-# config/settings.py
-# ALL FIXES REFLECTED HERE — v5.0 (21 patches applied)
-
 import os
 from dotenv import load_dotenv
 load_dotenv()
