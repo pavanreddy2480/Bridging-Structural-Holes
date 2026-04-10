@@ -1,0 +1,786 @@
+{
+  "stage3_pairs": [
+    {
+      "paper_id_A": "2905141912",
+      "paper_id_B": "2907777862",
+      "similarity": 0.974708,
+      "label_A": 30,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2950181023",
+      "similarity": 0.969971,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2945228649",
+      "paper_id_B": "2905141912",
+      "similarity": 0.968424,
+      "label_A": 16,
+      "label_B": 30
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2789744648",
+      "similarity": 0.96508,
+      "label_A": 16,
+      "label_B": 17
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2951659998",
+      "similarity": 0.958387,
+      "label_A": 5,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2811284902",
+      "similarity": 0.956985,
+      "label_A": 17,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2999276659",
+      "similarity": 0.95697,
+      "label_A": 17,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2147268943",
+      "similarity": 0.95463,
+      "label_A": 16,
+      "label_B": 28
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2950181023",
+      "similarity": 0.954133,
+      "label_A": 17,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "3003152535",
+      "paper_id_B": "2950129161",
+      "similarity": 0.953715,
+      "label_A": 27,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2917805034",
+      "paper_id_B": "2147268943",
+      "similarity": 0.952867,
+      "label_A": 24,
+      "label_B": 28
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2917805034",
+      "similarity": 0.951338,
+      "label_A": 17,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2985102825",
+      "paper_id_B": "2079758471",
+      "similarity": 0.951073,
+      "label_A": 27,
+      "label_B": 23
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2789744648",
+      "similarity": 0.951043,
+      "label_A": 5,
+      "label_B": 17
+    },
+    {
+      "paper_id_A": "3003152535",
+      "paper_id_B": "2617415363",
+      "similarity": 0.949913,
+      "label_A": 27,
+      "label_B": 26
+    },
+    {
+      "paper_id_A": "2617415363",
+      "paper_id_B": "2982030033",
+      "similarity": 0.949546,
+      "label_A": 26,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2991734025",
+      "similarity": 0.949076,
+      "label_A": 19,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2617415363",
+      "similarity": 0.948452,
+      "label_A": 16,
+      "label_B": 26
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2619387693",
+      "similarity": 0.948205,
+      "label_A": 17,
+      "label_B": 19
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2917805034",
+      "similarity": 0.945728,
+      "label_A": 19,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2945228649",
+      "paper_id_B": "2131966673",
+      "similarity": 0.94474,
+      "label_A": 16,
+      "label_B": 32
+    },
+    {
+      "paper_id_A": "2754031467",
+      "paper_id_B": "2963459987",
+      "similarity": 0.944702,
+      "label_A": 27,
+      "label_B": 32
+    },
+    {
+      "paper_id_A": "2982030033",
+      "paper_id_B": "2950181023",
+      "similarity": 0.944687,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2617415363",
+      "paper_id_B": "2950181023",
+      "similarity": 0.944406,
+      "label_A": 26,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2952495822",
+      "paper_id_B": "2079758471",
+      "similarity": 0.944165,
+      "label_A": 27,
+      "label_B": 23
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2907777862",
+      "similarity": 0.943412,
+      "label_A": 5,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2917805034",
+      "similarity": 0.942845,
+      "label_A": 5,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2952495822",
+      "paper_id_B": "2754184362",
+      "similarity": 0.942319,
+      "label_A": 27,
+      "label_B": 10
+    },
+    {
+      "paper_id_A": "2991734025",
+      "paper_id_B": "2917805034",
+      "similarity": 0.941857,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2991030916",
+      "paper_id_B": "2286099942",
+      "similarity": 0.941695,
+      "label_A": 24,
+      "label_B": 28
+    },
+    {
+      "paper_id_A": "2981648169",
+      "paper_id_B": "2952495822",
+      "similarity": 0.94136,
+      "label_A": 24,
+      "label_B": 27
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2945228649",
+      "similarity": 0.940941,
+      "label_A": 5,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2950181023",
+      "similarity": 0.940824,
+      "label_A": 5,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2754031467",
+      "paper_id_B": "203374064",
+      "similarity": 0.940792,
+      "label_A": 27,
+      "label_B": 5
+    },
+    {
+      "paper_id_A": "2079758471",
+      "paper_id_B": "2286099942",
+      "similarity": 0.94023,
+      "label_A": 23,
+      "label_B": 28
+    },
+    {
+      "paper_id_A": "2945228649",
+      "paper_id_B": "2963459987",
+      "similarity": 0.940211,
+      "label_A": 16,
+      "label_B": 32
+    },
+    {
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2917805034",
+      "similarity": 0.939738,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2414504425",
+      "similarity": 0.939177,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2907777862",
+      "paper_id_B": "2963459987",
+      "similarity": 0.939149,
+      "label_A": 16,
+      "label_B": 32
+    },
+    {
+      "paper_id_A": "2963459987",
+      "paper_id_B": "2997889117",
+      "similarity": 0.939009,
+      "label_A": 32,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2939489045",
+      "paper_id_B": "2079758471",
+      "similarity": 0.938955,
+      "label_A": 16,
+      "label_B": 23
+    },
+    {
+      "paper_id_A": "2963459987",
+      "paper_id_B": "2147268943",
+      "similarity": 0.938076,
+      "label_A": 32,
+      "label_B": 28
+    },
+    {
+      "paper_id_A": "2617415363",
+      "paper_id_B": "2907777862",
+      "similarity": 0.936972,
+      "label_A": 26,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2339890635",
+      "paper_id_B": "2789744648",
+      "similarity": 0.936782,
+      "label_A": 16,
+      "label_B": 17
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2972165073",
+      "similarity": 0.936435,
+      "label_A": 19,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2757828535",
+      "similarity": 0.936119,
+      "label_A": 16,
+      "label_B": 1
+    },
+    {
+      "paper_id_A": "2617415363",
+      "paper_id_B": "2789744648",
+      "similarity": 0.936015,
+      "label_A": 26,
+      "label_B": 17
+    },
+    {
+      "paper_id_A": "203374064",
+      "paper_id_B": "2963459987",
+      "similarity": 0.935953,
+      "label_A": 5,
+      "label_B": 32
+    },
+    {
+      "paper_id_A": "2981648169",
+      "paper_id_B": "2754184362",
+      "similarity": 0.935704,
+      "label_A": 24,
+      "label_B": 10
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2999276659",
+      "similarity": 0.935012,
+      "label_A": 19,
+      "label_B": 16
+    }
+  ],
+  "stage4_verified": [
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2950181023",
+      "embedding_similarity": 0.969971,
+      "structural_overlap": 0.0714,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2789744648",
+      "embedding_similarity": 0.96508,
+      "structural_overlap": 0.0769,
+      "label_A": 16,
+      "label_B": 17
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2950181023",
+      "embedding_similarity": 0.954133,
+      "structural_overlap": 0.1667,
+      "label_A": 17,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "3003152535",
+      "paper_id_B": "2950129161",
+      "embedding_similarity": 0.953715,
+      "structural_overlap": 0.0833,
+      "label_A": 27,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.951338,
+      "structural_overlap": 0.0952,
+      "label_A": 17,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2985102825",
+      "paper_id_B": "2079758471",
+      "embedding_similarity": 0.951073,
+      "structural_overlap": 0.0625,
+      "label_A": 27,
+      "label_B": 23
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2991734025",
+      "embedding_similarity": 0.949076,
+      "structural_overlap": 0.0588,
+      "label_A": 19,
+      "label_B": 16
+    },
+    {
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.939738,
+      "structural_overlap": 0.1333,
+      "label_A": 16,
+      "label_B": 24
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2972165073",
+      "embedding_similarity": 0.936435,
+      "structural_overlap": 0.0667,
+      "label_A": 19,
+      "label_B": 16
+    }
+  ],
+  "stage5_links": [
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2950181023",
+      "embedding_similarity": 0.969971,
+      "structural_overlap": 0.0714,
+      "label_A": 16,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 4,
+        "target_domain": "cs.CG",
+        "evidence_papers": [
+          "2786233556",
+          "2884280357",
+          "2949777041"
+        ],
+        "domain_A": "cs.GL",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper A (domain: cs.GL) uses the same algorithm as Paper B (domain: cs.MA). Paper B connects to cs.CG problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.CG."
+      }
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2789744648",
+      "embedding_similarity": 0.96508,
+      "structural_overlap": 0.0769,
+      "label_A": 16,
+      "label_B": 17,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "B_into_A_domain",
+        "source_paper": "B",
+        "target_label": 24,
+        "target_domain": "cs.MA",
+        "evidence_papers": [
+          "1522301498",
+          "2616127482"
+        ],
+        "domain_A": "cs.GL",
+        "domain_B": "cs.GR",
+        "interpretation": "Paper B (domain: cs.GR) uses the same algorithm as Paper A (domain: cs.GL). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+      }
+    },
+    {
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2789744648",
+      "embedding_similarity": 0.96508,
+      "structural_overlap": 0.0769,
+      "label_A": 16,
+      "label_B": 17,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 20,
+        "target_domain": "cs.IR",
+        "evidence_papers": [
+          "2560293005",
+          "3000705796"
+        ],
+        "domain_A": "cs.GL",
+        "domain_B": "cs.GR",
+        "interpretation": "Paper A (domain: cs.GL) uses the same algorithm as Paper B (domain: cs.GR). Paper B connects to cs.IR problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.IR."
+      }
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2950181023",
+      "embedding_similarity": 0.954133,
+      "structural_overlap": 0.1667,
+      "label_A": 17,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "B_into_A_domain",
+        "source_paper": "B",
+        "target_label": 20,
+        "target_domain": "cs.IR",
+        "evidence_papers": [
+          "2560293005",
+          "3000705796"
+        ],
+        "domain_A": "cs.GR",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper B (domain: cs.MA) uses the same algorithm as Paper A (domain: cs.GR). Paper A connects to cs.IR problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.IR."
+      }
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2950181023",
+      "embedding_similarity": 0.954133,
+      "structural_overlap": 0.1667,
+      "label_A": 17,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 4,
+        "target_domain": "cs.CG",
+        "evidence_papers": [
+          "2786233556",
+          "2884280357",
+          "2949777041"
+        ],
+        "domain_A": "cs.GR",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper A (domain: cs.GR) uses the same algorithm as Paper B (domain: cs.MA). Paper B connects to cs.CG problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.CG."
+      }
+    },
+    {
+      "paper_id_A": "3003152535",
+      "paper_id_B": "2950129161",
+      "embedding_similarity": 0.953715,
+      "structural_overlap": 0.0833,
+      "label_A": 27,
+      "label_B": 16,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "B_into_A_domain",
+        "source_paper": "B",
+        "target_label": 24,
+        "target_domain": "cs.MA",
+        "evidence_papers": [
+          "2198225532",
+          "2808746463",
+          "2592457170"
+        ],
+        "domain_A": "cs.NA",
+        "domain_B": "cs.GL",
+        "interpretation": "Paper B (domain: cs.GL) uses the same algorithm as Paper A (domain: cs.NA). Paper A connects to cs.MA problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.MA."
+      }
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.951338,
+      "structural_overlap": 0.0952,
+      "label_A": 17,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "B_into_A_domain",
+        "source_paper": "B",
+        "target_label": 16,
+        "target_domain": "cs.GL",
+        "evidence_papers": [
+          "2952508754",
+          "2951160114"
+        ],
+        "domain_A": "cs.GR",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper B (domain: cs.MA) uses the same algorithm as Paper A (domain: cs.GR). Paper A connects to cs.GL problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.GL."
+      }
+    },
+    {
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.951338,
+      "structural_overlap": 0.0952,
+      "label_A": 17,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 13,
+        "target_domain": "cs.DS",
+        "evidence_papers": [
+          "2949942850",
+          "2243249356"
+        ],
+        "domain_A": "cs.GR",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper A (domain: cs.GR) uses the same algorithm as Paper B (domain: cs.MA). Paper B connects to cs.DS problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.DS."
+      }
+    },
+    {
+      "paper_id_A": "2985102825",
+      "paper_id_B": "2079758471",
+      "embedding_similarity": 0.951073,
+      "structural_overlap": 0.0625,
+      "label_A": 27,
+      "label_B": 23,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 4,
+        "target_domain": "cs.CG",
+        "evidence_papers": [
+          "2950124967"
+        ],
+        "domain_A": "cs.NA",
+        "domain_B": "cs.LO",
+        "interpretation": "Paper A (domain: cs.NA) uses the same algorithm as Paper B (domain: cs.LO). Paper B connects to cs.CG problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.CG."
+      }
+    },
+    {
+      "paper_id_A": "2619387693",
+      "paper_id_B": "2991734025",
+      "embedding_similarity": 0.949076,
+      "structural_overlap": 0.0588,
+      "label_A": 19,
+      "label_B": 16,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 30,
+        "target_domain": "cs.OH",
+        "evidence_papers": [
+          "2950133940"
+        ],
+        "domain_A": "cs.HC",
+        "domain_B": "cs.GL",
+        "interpretation": "Paper A (domain: cs.HC) uses the same algorithm as Paper B (domain: cs.GL). Paper B connects to cs.OH problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.OH."
+      }
+    },
+    {
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.939738,
+      "structural_overlap": 0.1333,
+      "label_A": 16,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "B_into_A_domain",
+        "source_paper": "B",
+        "target_label": 5,
+        "target_domain": "cs.CL",
+        "evidence_papers": [
+          "2979762048"
+        ],
+        "domain_A": "cs.GL",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper B (domain: cs.MA) uses the same algorithm as Paper A (domain: cs.GL). Paper A connects to cs.CL problems, but Paper B does not. Predicted missing link: apply Paper B's algorithm to cs.CL."
+      }
+    },
+    {
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2917805034",
+      "embedding_similarity": 0.939738,
+      "structural_overlap": 0.1333,
+      "label_A": 16,
+      "label_B": 24,
+      "prediction": {
+        "status": "missing_link_found",
+        "direction": "A_into_B_domain",
+        "source_paper": "A",
+        "target_label": 13,
+        "target_domain": "cs.DS",
+        "evidence_papers": [
+          "2949942850",
+          "2243249356"
+        ],
+        "domain_A": "cs.GL",
+        "domain_B": "cs.MA",
+        "interpretation": "Paper A (domain: cs.GL) uses the same algorithm as Paper B (domain: cs.MA). Paper B connects to cs.DS problems, but Paper A does not. Predicted missing link: apply Paper A's algorithm to cs.DS."
+      }
+    }
+  ],
+  "stage7_scores": [
+    {
+      "index": 1,
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2950181023",
+      "domain_A": "cs.GR",
+      "domain_B": "cs.MA",
+      "embedding_similarity": 0.954133,
+      "structural_overlap": 0.1667,
+      "combined_score": 0.1591,
+      "scores": {
+        "novelty": 4.0,
+        "significance": 5.0,
+        "effectiveness": 4.0,
+        "clarity": 5.0,
+        "feasibility": 3.0,
+        "average": 4.2
+      }
+    },
+    {
+      "index": 2,
+      "paper_id_A": "2950628590",
+      "paper_id_B": "2917805034",
+      "domain_A": "cs.GL",
+      "domain_B": "cs.MA",
+      "embedding_similarity": 0.939738,
+      "structural_overlap": 0.1333,
+      "combined_score": 0.1253,
+      "scores": {
+        "novelty": 4.0,
+        "significance": 4.0,
+        "effectiveness": 3.0,
+        "clarity": 5.0,
+        "feasibility": 2.0,
+        "average": 3.6
+      }
+    },
+    {
+      "index": 3,
+      "paper_id_A": "2789744648",
+      "paper_id_B": "2917805034",
+      "domain_A": "cs.GR",
+      "domain_B": "cs.MA",
+      "embedding_similarity": 0.951338,
+      "structural_overlap": 0.0952,
+      "combined_score": 0.0906,
+      "scores": {
+        "novelty": 4.0,
+        "significance": 5.0,
+        "effectiveness": 3.0,
+        "clarity": 5.0,
+        "feasibility": 4.0,
+        "average": 4.2
+      }
+    },
+    {
+      "index": 4,
+      "paper_id_A": "3003152535",
+      "paper_id_B": "2950129161",
+      "domain_A": "cs.NA",
+      "domain_B": "cs.GL",
+      "embedding_similarity": 0.953715,
+      "structural_overlap": 0.0833,
+      "combined_score": 0.0794,
+      "scores": {
+        "novelty": 5.0,
+        "significance": 5.0,
+        "effectiveness": 4.0,
+        "clarity": 5.0,
+        "feasibility": 3.0,
+        "average": 4.4
+      }
+    },
+    {
+      "index": 5,
+      "paper_id_A": "2951659998",
+      "paper_id_B": "2789744648",
+      "domain_A": "cs.GL",
+      "domain_B": "cs.GR",
+      "embedding_similarity": 0.96508,
+      "structural_overlap": 0.0769,
+      "combined_score": 0.0742,
+      "scores": {
+        "novelty": 4.0,
+        "significance": 5.0,
+        "effectiveness": 4.0,
+        "clarity": 5.0,
+        "feasibility": 3.0,
+        "average": 4.2
+      }
+    }
+  ]
+}

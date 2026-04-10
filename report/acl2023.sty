@@ -1,0 +1,68 @@
+% ACL 2023 Style File (Standalone version)
+% Implements ACL formatting using standard LaTeX packages only.
+% Compatible with Overleaf and any standard TeX distribution.
+% Two-column layout is handled via documentclass option [twocolumn].
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{acl2023}[2023/01/01 ACL 2023 proceedings style]
+
+\RequirePackage{times}
+\RequirePackage{latexsym}
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{microtype}
+\RequirePackage{natbib}
+
+% Handle options
+\newif\if@hyperref
+\DeclareOption{hyperref}{\@hyperreftrue}
+\ProcessOptions\relax
+
+\if@hyperref
+  \RequirePackage{hyperref}
+\fi
+
+% Page geometry: ACL standard (letter, 1-inch margins)
+\RequirePackage[
+  letterpaper,
+  top=1in, bottom=1in, left=1in, right=1in,
+  columnsep=0.25in
+]{geometry}
+
+% Section formatting
+\RequirePackage{titlesec}
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.5em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0.5em}{}
+\titleformat{\subsubsection}[runin]{\normalfont\normalsize\bfseries}{\thesubsubsection}{0.5em}{}[.]
+\titlespacing*{\section}{0pt}{*2}{*1}
+\titlespacing*{\subsection}{0pt}{*1.5}{*0.5}
+
+% Paragraph spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt plus 1pt}
+
+% Abstract
+\renewenvironment{abstract}{%
+  \noindent\textbf{Abstract}\par\noindent\small
+}{%
+  \par\vskip 0.5em\hrule\vskip 0.5em%
+}
+
+% Bibliography
+\bibpunct{(}{)}{;}{a}{,}{,}
+\renewcommand{\bibfont}{\small}
+\setlength{\bibsep}{2pt}
+
+% Paragraph-style subsections (common in ACL papers)
+% Redefine \paragraph to suppress numbering and act as bold inline heading
+\renewcommand{\paragraph}[1]{\vspace{4pt}\noindent\textbf{#1.\ }}
+
+% Colored links (define colors manually)
+\AtBeginDocument{%
+  \@ifpackageloaded{hyperref}{%
+    \definecolor{darkblue}{rgb}{0,0,0.6}%
+    \definecolor{darkgreen}{rgb}{0,0.4,0}%
+    \hypersetup{colorlinks=true, citecolor=darkgreen,
+      linkcolor=darkblue, urlcolor=darkblue}%
+  }{}%
+}

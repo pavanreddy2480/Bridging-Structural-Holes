@@ -1,0 +1,83 @@
+[
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "embedding_similarity": 0.953715,
+    "structural_overlap": 0.0698,
+    "label_A": 27,
+    "label_B": 16,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2617415363",
+    "embedding_similarity": 0.949913,
+    "structural_overlap": 0.122,
+    "label_A": 27,
+    "label_B": 26,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2952495822",
+    "embedding_similarity": 0.94136,
+    "structural_overlap": 0.0732,
+    "label_A": 24,
+    "label_B": 27,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2952495822",
+    "paper_id_B": "203374064",
+    "embedding_similarity": 0.918795,
+    "structural_overlap": 0.0526,
+    "label_A": 27,
+    "label_B": 5,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "203374064",
+    "embedding_similarity": 0.909233,
+    "structural_overlap": 0.0769,
+    "label_A": 27,
+    "label_B": 5,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2939489045",
+    "embedding_similarity": 0.908866,
+    "structural_overlap": 0.075,
+    "label_A": 31,
+    "label_B": 16,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2985102825",
+    "embedding_similarity": 0.90769,
+    "structural_overlap": 0.0816,
+    "label_A": 31,
+    "label_B": 27,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2985102825",
+    "embedding_similarity": 0.906993,
+    "structural_overlap": 0.0588,
+    "label_A": 24,
+    "label_B": 27,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2131966673",
+    "embedding_similarity": 0.903358,
+    "structural_overlap": 0.0656,
+    "label_A": 30,
+    "label_B": 32,
+    "parser": "stanza"
+  }
+]

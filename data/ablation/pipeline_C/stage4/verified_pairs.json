@@ -1,0 +1,92 @@
+[
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2907777862",
+    "embedding_similarity": 0.974708,
+    "structural_overlap": 0.06,
+    "label_A": 30,
+    "label_B": 16,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2789744648",
+    "embedding_similarity": 0.96508,
+    "structural_overlap": 0.0556,
+    "label_A": 16,
+    "label_B": 17,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2789744648",
+    "paper_id_B": "2950181023",
+    "embedding_similarity": 0.954133,
+    "structural_overlap": 0.129,
+    "label_A": 17,
+    "label_B": 24,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "embedding_similarity": 0.953715,
+    "structural_overlap": 0.0698,
+    "label_A": 27,
+    "label_B": 16,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2789744648",
+    "paper_id_B": "2917805034",
+    "embedding_similarity": 0.951338,
+    "structural_overlap": 0.0541,
+    "label_A": 17,
+    "label_B": 24,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2617415363",
+    "embedding_similarity": 0.949913,
+    "structural_overlap": 0.122,
+    "label_A": 27,
+    "label_B": 26,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2619387693",
+    "paper_id_B": "2991734025",
+    "embedding_similarity": 0.949076,
+    "structural_overlap": 0.0612,
+    "label_A": 19,
+    "label_B": 16,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2991030916",
+    "paper_id_B": "2286099942",
+    "embedding_similarity": 0.941695,
+    "structural_overlap": 0.05,
+    "label_A": 24,
+    "label_B": 28,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2952495822",
+    "embedding_similarity": 0.94136,
+    "structural_overlap": 0.0732,
+    "label_A": 24,
+    "label_B": 27,
+    "parser": "stanza"
+  },
+  {
+    "paper_id_A": "2619387693",
+    "paper_id_B": "2972165073",
+    "embedding_similarity": 0.936435,
+    "structural_overlap": 0.0588,
+    "label_A": 19,
+    "label_B": 16,
+    "parser": "stanza"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2945228649",
+    "similarity": 0.968424,
+    "label_A": 30,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "203374064",
+    "similarity": 0.958387,
+    "label_A": 16,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2950129161",
+    "similarity": 0.953715,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2617415363",
+    "similarity": 0.949913,
+    "label_A": 27,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2617415363",
+    "similarity": 0.948452,
+    "label_A": 16,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2131966673",
+    "paper_id_B": "2945228649",
+    "similarity": 0.94474,
+    "label_A": 32,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2952495822",
+    "similarity": 0.94136,
+    "label_A": 24,
+    "label_B": 27
+  },
+  {
+    "paper_id_A": "203374064",
+    "paper_id_B": "2945228649",
+    "similarity": 0.940941,
+    "label_A": 5,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "203374064",
+    "similarity": 0.940792,
+    "label_A": 27,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2414504425",
+    "paper_id_B": "2951659998",
+    "similarity": 0.939177,
+    "label_A": 24,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "2951659998",
+    "similarity": 0.934591,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "2945228649",
+    "similarity": 0.930561,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2131966673",
+    "paper_id_B": "2617415363",
+    "similarity": 0.930468,
+    "label_A": 32,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "203374064",
+    "similarity": 0.928293,
+    "label_A": 30,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2951659998",
+    "similarity": 0.92673,
+    "label_A": 30,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "2952264987",
+    "similarity": 0.926576,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2945228649",
+    "paper_id_B": "2617415363",
+    "similarity": 0.92564,
+    "label_A": 16,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "3003152535",
+    "similarity": 0.925135,
+    "label_A": 16,
+    "label_B": 27
+  },
+  {
+    "paper_id_A": "203374064",
+    "paper_id_B": "2617415363",
+    "similarity": 0.92362,
+    "label_A": 5,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2952495822",
+    "paper_id_B": "2950765282",
+    "similarity": 0.921719,
+    "label_A": 27,
+    "label_B": 8
+  },
+  {
+    "paper_id_A": "2911591567",
+    "paper_id_B": "2949091954",
+    "similarity": 0.921123,
+    "label_A": 24,
+    "label_B": 34
+  },
+  {
+    "paper_id_A": "2917767146",
+    "paper_id_B": "203374064",
+    "similarity": 0.920881,
+    "label_A": 24,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2788232907",
+    "similarity": 0.920399,
+    "label_A": 31,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2788232907",
+    "paper_id_B": "2939489045",
+    "similarity": 0.9195,
+    "label_A": 24,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2952495822",
+    "paper_id_B": "203374064",
+    "similarity": 0.918795,
+    "label_A": 27,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2917767146",
+    "paper_id_B": "2945228649",
+    "similarity": 0.917398,
+    "label_A": 24,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2617415363",
+    "similarity": 0.915006,
+    "label_A": 30,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2414504425",
+    "paper_id_B": "2617415363",
+    "similarity": 0.91488,
+    "label_A": 24,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "2414504425",
+    "paper_id_B": "203374064",
+    "similarity": 0.913755,
+    "label_A": 24,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2985684803",
+    "similarity": 0.913288,
+    "label_A": 16,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2950129161",
+    "paper_id_B": "2617415363",
+    "similarity": 0.913159,
+    "label_A": 16,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "3006843277",
+    "paper_id_B": "1985912834",
+    "similarity": 0.911606,
+    "label_A": 28,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2949625447",
+    "paper_id_B": "2950396620",
+    "similarity": 0.911344,
+    "label_A": 27,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "1985912834",
+    "similarity": 0.910749,
+    "label_A": 27,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2736330435",
+    "paper_id_B": "2986409418",
+    "similarity": 0.910468,
+    "label_A": 16,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "2905141912",
+    "similarity": 0.909688,
+    "label_A": 27,
+    "label_B": 30
+  },
+  {
+    "paper_id_A": "3003152535",
+    "paper_id_B": "203374064",
+    "similarity": 0.909233,
+    "label_A": 27,
+    "label_B": 5
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "2617415363",
+    "similarity": 0.908874,
+    "label_A": 27,
+    "label_B": 26
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2939489045",
+    "similarity": 0.908866,
+    "label_A": 31,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "2985102825",
+    "similarity": 0.90769,
+    "label_A": 31,
+    "label_B": 27
+  },
+  {
+    "paper_id_A": "2981648169",
+    "paper_id_B": "2985102825",
+    "similarity": 0.906993,
+    "label_A": 24,
+    "label_B": 27
+  },
+  {
+    "paper_id_A": "2414504425",
+    "paper_id_B": "2945228649",
+    "similarity": 0.906952,
+    "label_A": 24,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2294040949",
+    "similarity": 0.90686,
+    "label_A": 16,
+    "label_B": 8
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2950396620",
+    "similarity": 0.906524,
+    "label_A": 16,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "2754031467",
+    "paper_id_B": "2131966673",
+    "similarity": 0.905988,
+    "label_A": 27,
+    "label_B": 32
+  },
+  {
+    "paper_id_A": "203374064",
+    "paper_id_B": "2131966673",
+    "similarity": 0.904938,
+    "label_A": 5,
+    "label_B": 32
+  },
+  {
+    "paper_id_A": "2951659998",
+    "paper_id_B": "2917767146",
+    "similarity": 0.904035,
+    "label_A": 16,
+    "label_B": 24
+  },
+  {
+    "paper_id_A": "3010151463",
+    "paper_id_B": "1985912834",
+    "similarity": 0.903949,
+    "label_A": 31,
+    "label_B": 16
+  },
+  {
+    "paper_id_A": "2905141912",
+    "paper_id_B": "2131966673",
+    "similarity": 0.903358,
+    "label_A": 30,
+    "label_B": 32
+  },
+  {
+    "paper_id_A": "2767295256",
+    "paper_id_B": "2884728038",
+    "similarity": 0.903335,
+    "label_A": 16,
+    "label_B": 27
+  }
+]
