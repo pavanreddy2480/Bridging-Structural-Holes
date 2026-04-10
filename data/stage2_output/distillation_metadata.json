@@ -1,0 +1,4332 @@
+{
+  "2281364703": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "3009525345": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2903473900": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2560380778": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2286197641": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2935361824": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "2735578456": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2110140246": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2951755121": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2956537605": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "2952402597": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "1828922096": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2940690269": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "1624890229": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "1919051935": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2989848887": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "277805911": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2950632788": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2947104369": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2952029160": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 15
+  },
+  "2899827320": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2767124070": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2950494344": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2883670420": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 27
+  },
+  "2952180151": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 10
+  },
+  "2079094895": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2938721733": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950352968": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2951482518": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 9
+  },
+  "2949112927": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2952489181": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2949896029": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 39
+  },
+  "2763382327": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2806061475": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2130500323": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2620318602": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "3004829263": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2949594380": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2949150544": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 17
+  },
+  "2900404942": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950467063": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2144667911": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 0
+  },
+  "2592788155": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1651399179": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "116214155": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2605352268": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1930267586": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "1827558694": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2952164293": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2295657959": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2953374536": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2953161527": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2946234094": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 26
+  },
+  "1892956897": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2998848597": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "1800580574": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2128604234": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2805643637": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 13
+  },
+  "2953182251": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 10
+  },
+  "2581705487": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 17
+  },
+  "2522536814": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2953167782": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1522378257": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "1709348704": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2128203591": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 26
+  },
+  "1534589270": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2785500735": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 26
+  },
+  "2949678279": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2946469510": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "1837406759": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2724392101": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 13
+  },
+  "2171061231": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2609754840": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "1514522769": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "3002662895": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2951187732": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2897970024": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2560051165": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2106090311": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "1814471488": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2998744607": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2788542505": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "2944491429": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2602677185": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2952670254": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2337204814": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 39
+  },
+  "2990946919": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "1603803693": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 9
+  },
+  "2167149929": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2768447495": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2197112176": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 26
+  },
+  "2776353950": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "1757597438": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2530325458": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2531349076": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "1615740763": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2952337026": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "3005461992": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2217302532": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2898473494": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2901129691": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2273968757": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2899669189": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2952548632": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 31
+  },
+  "1509038947": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2581790763": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2049819383": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 16
+  },
+  "2090304286": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2292886688": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2991381858": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2243729145": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 37
+  },
+  "2952062907": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1552688391": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "1519056739": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2613401634": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 27
+  },
+  "2298865349": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "1639246335": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2950696249": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2598205349": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1489431616": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2793431221": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2949757959": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2982560266": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2902154658": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2949816416": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "1544480053": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2949223132": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2806680938": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "1927942882": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2950232303": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 39
+  },
+  "2951629168": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2951610602": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2117038364": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2949525405": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "1580036059": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2969437446": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2952184560": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2596633079": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2224568587": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2176426097": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2786848957": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1773145033": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 24
+  },
+  "2032869031": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2952262912": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2884843549": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 16
+  },
+  "2951363171": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2803889752": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2225255577": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2409355369": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2170610459": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2125680629": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2412380334": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2607105342": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 24
+  },
+  "2993626171": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2242710970": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 10
+  },
+  "2894973163": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2123272248": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 10
+  },
+  "2032951138": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 16
+  },
+  "2077841592": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2952715684": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 34
+  },
+  "2949496232": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2537885884": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 34
+  },
+  "2970661343": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2608758042": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 39
+  },
+  "2991064195": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2903877110": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2260123238": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2950980855": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1536890176": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2951966312": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2609709582": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 10
+  },
+  "2940272946": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2580995879": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2198852430": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2949302885": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2943777797": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2343193817": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1570200465": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 24
+  },
+  "3009608016": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 27
+  },
+  "2942493509": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2950751910": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 16
+  },
+  "2985086394": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2951698797": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2949215274": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2606602931": {
+    "paper_type": "anchor",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2794804527": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2951718480": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 8
+  },
+  "2957566694": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2912682706": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2726959299": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 10
+  },
+  "2952959493": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2949258440": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2784785544": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 39
+  },
+  "2118690363": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2997998004": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2472709015": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2953083079": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2949731977": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 34
+  },
+  "2952056253": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "3004713861": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 24
+  },
+  "2407673450": {
+    "paper_type": "anchor",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 10
+  },
+  "2905433280": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2763071938": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2950144003": {
+    "paper_type": "anchor",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1581300568": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2788803293": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2557745639": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "1651567677": {
+    "paper_type": "anchor",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2954342577": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 28
+  },
+  "2793399158": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2542136887": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2987473824": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2949387874": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2180094997": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2791940667": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2166566250": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2945217387": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2949686539": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "1908709377": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2898066105": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2520836573": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 9
+  },
+  "2766027600": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2753289174": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2249707950": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2749718357": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 32
+  },
+  "1569369678": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2811199191": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2765571454": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2952129533": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2949644579": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "111947006": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 21
+  },
+  "2953170569": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2052639209": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2986390168": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2963015795": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2241958176": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2890896922": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2950581651": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2789776893": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2791678910": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2953034868": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "1513909467": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2949712064": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 26
+  },
+  "2952493076": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2951336795": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2508691887": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2951493172": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2991229522": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2949496227": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "1511293659": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2100134167": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "1881103392": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2618421303": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2956136341": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2950499704": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "3008547934": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "1575646154": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2980016914": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2742546911": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 26
+  },
+  "3002768106": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2945245453": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2015810913": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2974239551": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 5
+  },
+  "2101709139": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2951817042": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 14
+  },
+  "1514937995": {
+    "paper_type": "anchor",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 10
+  },
+  "2998099803": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2951113365": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2766635461": {
+    "paper_type": "anchor",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "1831933153": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 28
+  },
+  "3009629996": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2282554529": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 9
+  },
+  "2900212834": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "3005233248": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 9
+  },
+  "2952646364": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2950071127": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2495332418": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2981435674": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2554178626": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2949682528": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 37
+  },
+  "1682003616": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2795283551": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "1802395297": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2952961592": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "3003186306": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2754184362": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2416555906": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2475785066": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2160639384": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 4
+  },
+  "2947656817": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2899946382": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2201741039": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2177203353": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "3007551826": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2769989147": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2990389135": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2256691368": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 21
+  },
+  "2391039033": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2981892046": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2965330733": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "3005304850": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2985556164": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2952609095": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2552342748": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2790512600": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2952006246": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 16
+  },
+  "2794608316": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 28
+  },
+  "2990924552": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 24
+  },
+  "2995724309": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2745265762": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2905054156": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2258969095": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 0
+  },
+  "2947594428": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2906306441": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 31
+  },
+  "2978789038": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 31
+  },
+  "2972179598": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 24
+  },
+  "2758192787": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 28
+  },
+  "2949230886": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2930074589": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2218046752": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2472472130": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2954451380": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2766897220": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2952158803": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 39
+  },
+  "2944481864": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "3006068288": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 16
+  },
+  "2978301121": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2898270313": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2899875376": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 16
+  },
+  "2993467542": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 16
+  },
+  "2886086760": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2949561789": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 16
+  },
+  "2290787973": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 39
+  },
+  "2792286966": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2465947746": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2950870032": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2226906430": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2949324113": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 31
+  },
+  "2763483042": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2951033335": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 34
+  },
+  "2187299368": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2951703455": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2995833405": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2994852306": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 20
+  },
+  "2288333746": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 36
+  },
+  "2951303800": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2959716150": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2400446130": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2914765585": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2953259620": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2949164666": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2796051023": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "1525801843": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2950112741": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2950701726": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2969478734": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2788198909": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2205386399": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 36
+  },
+  "2762361752": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "3006871111": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2246904661": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 36
+  },
+  "2950559130": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2158492447": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2113870620": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2952585849": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 31
+  },
+  "2755659272": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 39
+  },
+  "2774789617": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 4
+  },
+  "1877183374": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2803348525": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 19
+  },
+  "2990986308": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 4
+  },
+  "2998722642": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 7
+  },
+  "2164613142": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "3005141979": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2950998675": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2952491163": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "1796935230": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "3007638363": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2974735205": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 30
+  },
+  "2951673184": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 10
+  },
+  "2951778850": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 34
+  },
+  "2996499210": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 31
+  },
+  "2949679478": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2797674481": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 9
+  },
+  "2255966421": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2770814335": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 16
+  },
+  "2403539064": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2513566807": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 31
+  },
+  "2803805344": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2126809555": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2951359797": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2983782154": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2774412855": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2108753369": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 10
+  },
+  "2757404100": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2515336100": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2950461340": {
+    "paper_type": "anchor",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 10
+  },
+  "2073933131": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 9
+  },
+  "2130126463": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2951196115": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 9
+  },
+  "2901469007": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "3002627114": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2523640569": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2946647517": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "3004924329": {
+    "paper_type": "anchor",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2914628078": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2951975476": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2954166523": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2942109155": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2752743379": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2789788032": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2784826796": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "1983429958": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "78547387": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 20
+  },
+  "1556058703": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 21
+  },
+  "2949929467": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2786458718": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 10
+  },
+  "2982676138": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2048772520": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 34
+  },
+  "2200840682": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1537169416": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2109962983": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2951200405": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2963083258": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1553390749": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2063587930": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2106335950": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 28
+  },
+  "2949988970": {
+    "paper_type": "anchor",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 9
+  },
+  "2129119419": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2952684866": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2952629540": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2286793872": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2951654065": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 19
+  },
+  "2949908757": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 28
+  },
+  "2952528012": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "3005305519": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2952240676": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 28
+  },
+  "2883165869": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2949382634": {
+    "paper_type": "anchor",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 39
+  },
+  "2952400139": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "1546979169": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "1840738871": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "1595815960": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2307029830": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2990099380": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 28
+  },
+  "2951471647": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2602842841": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "3007440580": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2555134206": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2952288195": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2949996623": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2641152181": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 28
+  },
+  "2275114322": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2952394454": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 27
+  },
+  "1977201973": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2805805280": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2910767785": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 7
+  },
+  "1995853580": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2950762044": {
+    "paper_type": "anchor",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 36
+  },
+  "2949614920": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2219434941": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 34
+  },
+  "2994707415": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "1499393050": {
+    "paper_type": "anchor",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2987293847": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2949644425": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2949466544": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 22
+  },
+  "2949350092": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2951534041": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 34
+  },
+  "3007386409": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 11
+  },
+  "1572086589": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2900726521": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2950825749": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 22
+  },
+  "1631271923": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2948120601": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2948846193": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2263225824": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 22
+  },
+  "2952342445": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 18
+  },
+  "2945117706": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 20
+  },
+  "2949251579": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2419168072": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 36
+  },
+  "1860742233": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 34
+  },
+  "159656292": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 0
+  },
+  "3003815669": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2784290897": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 19
+  },
+  "2951506872": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 19
+  },
+  "1487136406": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 28
+  },
+  "2514742857": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2949527064": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2999518513": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 28
+  },
+  "2951537366": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2953382159": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2768733533": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 36
+  },
+  "2951601379": {
+    "paper_type": "anchor",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2936899590": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 4
+  },
+  "2969770887": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 4
+  },
+  "2522156400": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 27
+  },
+  "2792095577": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 13
+  },
+  "2795924730": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2906363291": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 28
+  },
+  "2798989470": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2885097692": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 28
+  },
+  "2911395274": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2610242999": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 22
+  },
+  "2798725115": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 5
+  },
+  "1948987001": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 39
+  },
+  "2543835491": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 37
+  },
+  "2949752303": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 5
+  },
+  "2951949147": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2984939889": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2024376777": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 19
+  },
+  "2128289553": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 13
+  },
+  "2543348979": {
+    "paper_type": "anchor",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "3007948508": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "1563127354": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 22
+  },
+  "2813777834": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2765742413": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2142363699": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 19
+  },
+  "2971463999": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2799074384": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 13
+  },
+  "2951306656": {
+    "paper_type": "anchor",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 9
+  },
+  "2951455783": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2977932392": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2999426717": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2116066327": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 5
+  },
+  "3008519205": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2131010736": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "1511263746": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 28
+  },
+  "2950238172": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 19
+  },
+  "2978543698": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 16
+  },
+  "2804375450": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2786961550": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 26
+  },
+  "2775593698": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2805497261": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2942587884": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2950681147": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2969280827": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2160622522": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 16
+  },
+  "2951322510": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 34
+  },
+  "1604285897": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "3005668327": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 24
+  },
+  "2072801280": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 16
+  },
+  "2293429496": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 26
+  },
+  "2470825435": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 26
+  },
+  "2946503072": {
+    "paper_type": "problem_structure",
+    "seed_name": "Belief Propagation",
+    "ogbn_label": 5
+  },
+  "2752790450": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2943949419": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2979761236": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 6
+  },
+  "1971395348": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2927177923": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2755953250": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "1759689472": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2958611162": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 5
+  },
+  "2782833507": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 20
+  },
+  "2951948539": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2899431500": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2903365982": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2753494128": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2951804168": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2724598887": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2949807038": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 9
+  },
+  "2150957489": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 0
+  },
+  "2953292887": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "1880193759": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2614475431": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 20
+  },
+  "2951793426": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2403409716": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 28
+  },
+  "2946530952": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 24
+  },
+  "2404407568": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 16
+  },
+  "2903468495": {
+    "paper_type": "problem_structure",
+    "seed_name": "Spectral Clustering",
+    "ogbn_label": 34
+  },
+  "2122229470": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 34
+  },
+  "2003184432": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 34
+  },
+  "2990317509": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "1595545129": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 28
+  },
+  "2950141689": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2949514071": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 34
+  },
+  "2950912239": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "1779260694": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 16
+  },
+  "2770980885": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2951774643": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2967027099": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2950671085": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 10
+  },
+  "2935791917": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 16
+  },
+  "3011685969": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2975003945": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2759500099": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 34
+  },
+  "1975360581": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 26
+  },
+  "190762192": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2950454986": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 16
+  },
+  "2901260426": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2781516054": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 28
+  },
+  "2949161234": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 16
+  },
+  "2989404662": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 36
+  },
+  "2953343723": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 16
+  },
+  "1624485851": {
+    "paper_type": "problem_structure",
+    "seed_name": "Dynamic Programming",
+    "ogbn_label": 24
+  },
+  "2994865198": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2888960966": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2910135751": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2926567608": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2996014144": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "3009318622": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2530846021": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2976652617": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2898656390": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2979843248": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "1654947107": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2907938015": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2981987089": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2956843879": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2888351977": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2972296765": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 30
+  },
+  "2899353896": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2966528571": {
+    "paper_type": "problem_structure",
+    "seed_name": "Variational Inference",
+    "ogbn_label": 24
+  },
+  "2951559724": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "1635254744": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 9
+  },
+  "3004700632": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2241387676": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2521172536": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 18
+  },
+  "2096497777": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 34
+  },
+  "2953163219": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2950158252": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2168643276": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2617119588": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2688160009": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2921014968": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2997793548": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2803518100": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2592059976": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 26
+  },
+  "2952297934": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 10
+  },
+  "2883087722": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 8
+  },
+  "2989763499": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 34
+  },
+  "2767380555": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2748561946": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 18
+  },
+  "3001903418": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 20
+  },
+  "2891160178": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2949568260": {
+    "paper_type": "problem_structure",
+    "seed_name": "Simulated Annealing",
+    "ogbn_label": 24
+  },
+  "2946369017": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 24
+  },
+  "2943707272": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2986750569": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 24
+  },
+  "1571379782": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "1536944281": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2148236758": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1955847963": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2414540177": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2767722984": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1997302521": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2940966843": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 24
+  },
+  "2294212353": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2248789255": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2917596662": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 34
+  },
+  "2005612613": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "1582126688": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 24
+  },
+  "2893679283": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 30
+  },
+  "2992387837": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 30
+  },
+  "2064533695": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2950259592": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 2
+  },
+  "2057035741": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 22
+  },
+  "2587753047": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 24
+  },
+  "2467901113": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 28
+  },
+  "2923619092": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 16
+  },
+  "2157665330": {
+    "paper_type": "problem_structure",
+    "seed_name": "Lattice Basis Reduction",
+    "ogbn_label": 13
+  },
+  "2022240529": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1527244582": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2950773291": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "3012179891": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1860113857": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2135780853": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "3001743978": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1543626012": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2951676075": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 16
+  },
+  "2950372728": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "170290551": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2110027004": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1848264314": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1928412778": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1575079807": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2078076831": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2240263346": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2107033175": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2944597798": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 16
+  },
+  "1537388577": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2952346877": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "1865437409": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 28
+  },
+  "2468883959": {
+    "paper_type": "problem_structure",
+    "seed_name": "Compressed Sensing",
+    "ogbn_label": 0
+  },
+  "2801027322": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2947752369": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2977983631": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2792248397": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2950325836": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 28
+  },
+  "2922825525": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2976481173": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 37
+  },
+  "2953026305": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 19
+  },
+  "2613736160": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 16
+  },
+  "2989383883": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2971612319": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2778783904": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2979162819": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2938662726": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 16
+  },
+  "2993278319": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2993143444": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2946885769": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2909558328": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2982534372": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "3007404550": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2725229240": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 28
+  },
+  "2950005046": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 16
+  },
+  "2887976372": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 16
+  },
+  "2996477138": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 16
+  },
+  "2765784210": {
+    "paper_type": "problem_structure",
+    "seed_name": "Gaussian Process Regression",
+    "ogbn_label": 24
+  },
+  "2771647262": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 36
+  },
+  "2949507934": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "1578746725": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950465669": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 37
+  },
+  "2952723085": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 37
+  },
+  "2990179585": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2139430401": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950050091": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 36
+  },
+  "2949926086": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950941308": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "1616068570": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 36
+  },
+  "2786835571": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 26
+  },
+  "1574339078": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2117367215": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 28
+  },
+  "3008738889": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2951429637": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 37
+  },
+  "2122821895": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2949777151": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2952086514": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2949346966": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2098232509": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2950524127": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 34
+  },
+  "2591957536": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 26
+  },
+  "2950815211": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 9
+  },
+  "2935959957": {
+    "paper_type": "problem_structure",
+    "seed_name": "Submodular Optimization",
+    "ogbn_label": 5
+  },
+  "3000410895": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2951658800": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "1997127735": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2811302639": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2998589357": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2967531850": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 11
+  },
+  "2943810001": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2950635901": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2916197674": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2098707666": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "2949748643": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2155356457": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 19
+  },
+  "3003843757": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2770132917": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 19
+  },
+  "2949505158": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2899729144": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 24
+  },
+  "3007447106": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2902357527": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2950488758": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 27
+  },
+  "2894308749": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2947393200": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 16
+  },
+  "2952977389": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2593134703": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 19
+  },
+  "1690071700": {
+    "paper_type": "problem_structure",
+    "seed_name": "Optimal Transport",
+    "ogbn_label": 28
+  },
+  "2952976841": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2952927816": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 10
+  },
+  "1894959949": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2795916513": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 16
+  },
+  "2767740481": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2132731930": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 28
+  },
+  "1994536619": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 2
+  },
+  "2949470340": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2981789115": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 24
+  },
+  "2896653157": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 19
+  },
+  "2785708181": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 10
+  },
+  "2237392388": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 19
+  },
+  "2766359923": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2808217758": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 39
+  },
+  "1488465456": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 16
+  },
+  "2081632029": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2956310154": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 10
+  },
+  "2949873240": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "1910210133": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 5
+  },
+  "2928604581": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 10
+  },
+  "2949232492": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 26
+  },
+  "2786157464": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "1631636247": {
+    "paper_type": "problem_structure",
+    "seed_name": "Random Walk Algorithms",
+    "ogbn_label": 34
+  },
+  "2776597560": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 19
+  },
+  "2950425460": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2213683026": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 34
+  },
+  "2789415969": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 27
+  },
+  "2288097181": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2893967595": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 36
+  },
+  "2889634868": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2951713178": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2914396674": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 5
+  },
+  "1938476487": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2958031930": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2127883485": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 19
+  },
+  "2786237868": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "1771882146": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 39
+  },
+  "2952051973": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "2790728601": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 19
+  },
+  "2787405421": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 24
+  },
+  "1986092017": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2934089032": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "1961207663": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2784709112": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 28
+  },
+  "2795890526": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 16
+  },
+  "2974621005": {
+    "paper_type": "problem_structure",
+    "seed_name": "Frank-Wolfe Algorithm",
+    "ogbn_label": 27
+  },
+  "3000370564": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2952929952": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2478472436": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 25
+  },
+  "3006365256": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2913516839": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2952849647": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "3003671628": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 10
+  },
+  "2952797480": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "1584292042": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 10
+  },
+  "2410698187": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2622124186": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2952673310": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "3005466731": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 16
+  },
+  "2912956372": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2930284441": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "3005338637": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "746140752": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 10
+  },
+  "2969462325": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 16
+  },
+  "2984929478": {
+    "paper_type": "problem_structure",
+    "seed_name": "Expectation Maximization",
+    "ogbn_label": 24
+  },
+  "2902106771": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2947023772": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2758127423": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 39
+  },
+  "2951570923": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2951237868": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2952271679": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "2783865284": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2907486447": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2885324189": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2763183857": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2950900821": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 34
+  },
+  "2913899818": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 10
+  },
+  "2108234087": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 36
+  },
+  "2802647957": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2170919753": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "1916020809": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 39
+  },
+  "2952500258": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "1633180224": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 24
+  },
+  "2159403046": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2914124955": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 28
+  },
+  "2417402483": {
+    "paper_type": "problem_structure",
+    "seed_name": "Markov Chain Monte Carlo",
+    "ogbn_label": 13
+  },
+  "2118664420": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 8
+  },
+  "2800884654": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2944892819": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 24
+  },
+  "2532622025": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 20
+  },
+  "2038585855": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 37
+  },
+  "2950657392": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2945250699": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 24
+  },
+  "2952180316": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2007494434": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2795538309": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2297424662": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 39
+  },
+  "2978720244": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 24
+  },
+  "2953731889": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 8
+  },
+  "2985666274": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 16
+  },
+  "2921452474": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 26
+  },
+  "2950205824": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 36
+  },
+  "2126384258": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2734804821": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2191842947": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2889693820": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 34
+  },
+  "2949708310": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 26
+  },
+  "2033233650": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 28
+  },
+  "2951394562": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 24
+  },
+  "2996401364": {
+    "paper_type": "problem_structure",
+    "seed_name": "Min-Cut / Max-Flow",
+    "ogbn_label": 5
+  }
+}

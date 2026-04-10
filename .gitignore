@@ -1,0 +1,55 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+# ── Secrets / API keys ────────────────────────────────────────────────────────
+.env
+*.key
+secrets.py
+config/secrets.py
+
+# ── Raw dataset (too large for git) ───────────────────────────────────────────
+data/raw/
+
+# ── Logs & temp run files ─────────────────────────────────────────────────────
+run_output.log
+pipeline.log
+*.log
+
+# ── Scratch / plan files ──────────────────────────────────────────────────────
+#IMPLEMENTATION_PLAN_v7.md
+/tmp/
+
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Keep all pipeline outputs (stages 0–6), charts, and reports ───────────────
+# data/stage*_output/   → tracked
+# data/*.png            → tracked
+# data/*.md             → tracked
+# data/*.json           → tracked (except raw/ above)
+MAIN/*

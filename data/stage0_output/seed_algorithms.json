@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Belief Propagation",
+    "established_labels": [
+      21,
+      22,
+      0,
+      7
+    ],
+    "established_domains": [
+      "cs.IT",
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "canonical_terms": [
+      "belief propagation",
+      "message passing",
+      "sum-product",
+      "factor graph",
+      "loopy BP"
+    ],
+    "problem_structure_terms": [
+      "marginal inference",
+      "iterative message",
+      "local factors",
+      "graph-structured",
+      "variable nodes",
+      "factor nodes",
+      "convergent messages"
+    ],
+    "exclusion_strings": [
+      "belief propagation",
+      "message passing",
+      "sum-product algorithm",
+      "factor graph",
+      " BP "
+    ]
+  },
+  {
+    "name": "Spectral Clustering",
+    "established_labels": [
+      22,
+      7,
+      38
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.CV",
+      "cs.SI"
+    ],
+    "canonical_terms": [
+      "spectral clustering",
+      "graph laplacian",
+      "eigenvector decomposition",
+      "normalized cuts",
+      "spectral embedding"
+    ],
+    "problem_structure_terms": [
+      "partition into groups",
+      "pairwise similarity matrix",
+      "eigenvalue decomposition",
+      "connectivity structure",
+      "affinity matrix",
+      "cluster boundaries"
+    ],
+    "exclusion_strings": [
+      "spectral clustering",
+      "graph laplacian",
+      "normalized cut",
+      "spectral method"
+    ]
+  },
+  {
+    "name": "Dynamic Programming",
+    "established_labels": [
+      13,
+      0,
+      22
+    ],
+    "established_domains": [
+      "cs.DS",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "canonical_terms": [
+      "dynamic programming",
+      "optimal substructure",
+      "memoization",
+      "bellman equation",
+      "recurrence relation"
+    ],
+    "problem_structure_terms": [
+      "overlapping subproblems",
+      "optimal value function",
+      "state transition",
+      "recursive decomposition",
+      "tabulation",
+      "stage-wise optimization"
+    ],
+    "exclusion_strings": [
+      "dynamic programming",
+      "bellman equation",
+      "memoization",
+      "DP table",
+      " DP "
+    ]
+  },
+  {
+    "name": "Variational Inference",
+    "established_labels": [
+      22,
+      0,
+      21,
+      28
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IT",
+      "cs.NE"
+    ],
+    "canonical_terms": [
+      "variational inference",
+      "evidence lower bound",
+      "ELBO",
+      "variational bayes",
+      "mean field approximation"
+    ],
+    "problem_structure_terms": [
+      "approximate posterior",
+      "KL divergence minimization",
+      "latent variable",
+      "intractable likelihood",
+      "evidence maximization",
+      "expectation maximization"
+    ],
+    "exclusion_strings": [
+      "variational inference",
+      "ELBO",
+      "evidence lower bound",
+      "mean field",
+      "variational bayes"
+    ]
+  },
+  {
+    "name": "Simulated Annealing",
+    "established_labels": [
+      28,
+      22,
+      0,
+      13
+    ],
+    "established_domains": [
+      "cs.NE",
+      "cs.LG",
+      "cs.AI",
+      "cs.DS"
+    ],
+    "canonical_terms": [
+      "simulated annealing",
+      "temperature schedule",
+      "acceptance probability",
+      "cooling schedule",
+      "metropolis criterion"
+    ],
+    "problem_structure_terms": [
+      "combinatorial optimization",
+      "local minima escape",
+      "stochastic search",
+      "energy landscape",
+      "neighbor state",
+      "annealing schedule"
+    ],
+    "exclusion_strings": [
+      "simulated annealing",
+      "annealing schedule",
+      "metropolis",
+      "cooling schedule",
+      " SA "
+    ]
+  },
+  {
+    "name": "Lattice Basis Reduction",
+    "established_labels": [
+      6,
+      21,
+      12
+    ],
+    "established_domains": [
+      "cs.CR",
+      "cs.IT",
+      "cs.DM"
+    ],
+    "canonical_terms": [
+      "lattice reduction",
+      "LLL algorithm",
+      "shortest vector",
+      "basis reduction",
+      "lattice basis"
+    ],
+    "problem_structure_terms": [
+      "integer vector minimization",
+      "bounded norm constraint",
+      "modular arithmetic",
+      "orthogonalization",
+      "successive minima",
+      "gram-schmidt"
+    ],
+    "exclusion_strings": [
+      "lattice reduction",
+      "LLL",
+      "shortest vector problem",
+      "lattice basis"
+    ]
+  },
+  {
+    "name": "Compressed Sensing",
+    "established_labels": [
+      21,
+      7,
+      22,
+      39
+    ],
+    "established_domains": [
+      "cs.IT",
+      "cs.CV",
+      "cs.LG",
+      "cs.SY"
+    ],
+    "canonical_terms": [
+      "compressed sensing",
+      "sparse recovery",
+      "restricted isometry",
+      "basis pursuit",
+      "LASSO recovery"
+    ],
+    "problem_structure_terms": [
+      "sparse signal",
+      "underdetermined system",
+      "l1 minimization",
+      "incoherent measurements",
+      "sparse representation",
+      "recovery guarantee"
+    ],
+    "exclusion_strings": [
+      "compressed sensing",
+      "sparse recovery",
+      "restricted isometry property",
+      "basis pursuit"
+    ]
+  },
+  {
+    "name": "Gaussian Process Regression",
+    "established_labels": [
+      22,
+      0,
+      34,
+      39
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO",
+      "cs.SY"
+    ],
+    "canonical_terms": [
+      "gaussian process",
+      "GP regression",
+      "kernel covariance",
+      "posterior predictive",
+      "radial basis function kernel"
+    ],
+    "problem_structure_terms": [
+      "non-parametric regression",
+      "uncertainty quantification",
+      "covariance function",
+      "prior over functions",
+      "predictive distribution",
+      "noise variance"
+    ],
+    "exclusion_strings": [
+      "gaussian process",
+      "GP regression",
+      "kernel covariance",
+      "RBF kernel",
+      " GP "
+    ]
+  },
+  {
+    "name": "Submodular Optimization",
+    "established_labels": [
+      13,
+      22,
+      0,
+      20
+    ],
+    "established_domains": [
+      "cs.DS",
+      "cs.LG",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "canonical_terms": [
+      "submodular function",
+      "greedy submodular",
+      "diminishing returns",
+      "submodular maximization",
+      "matroid constraint"
+    ],
+    "problem_structure_terms": [
+      "diminishing marginal returns",
+      "set function maximization",
+      "greedy approximation",
+      "coverage problem",
+      "facility location",
+      "budget constraint"
+    ],
+    "exclusion_strings": [
+      "submodular",
+      "diminishing returns property",
+      "matroid"
+    ]
+  },
+  {
+    "name": "Optimal Transport",
+    "established_labels": [
+      22,
+      7,
+      5,
+      0
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.CV",
+      "cs.CL",
+      "cs.AI"
+    ],
+    "canonical_terms": [
+      "optimal transport",
+      "wasserstein distance",
+      "earth mover distance",
+      "Sinkhorn algorithm",
+      "transport plan"
+    ],
+    "problem_structure_terms": [
+      "distribution alignment",
+      "mass transportation",
+      "coupling matrix",
+      "marginal constraints",
+      "cost matrix minimization",
+      "probability distribution matching"
+    ],
+    "exclusion_strings": [
+      "optimal transport",
+      "wasserstein",
+      "earth mover",
+      "Sinkhorn"
+    ]
+  },
+  {
+    "name": "Random Walk Algorithms",
+    "established_labels": [
+      38,
+      22,
+      20,
+      9
+    ],
+    "established_domains": [
+      "cs.SI",
+      "cs.LG",
+      "cs.IR",
+      "cs.DB"
+    ],
+    "canonical_terms": [
+      "random walk",
+      "PageRank",
+      "personalized pagerank",
+      "random walk with restart",
+      "stationary distribution"
+    ],
+    "problem_structure_terms": [
+      "graph traversal",
+      "transition probability",
+      "node ranking",
+      "convergent walk",
+      "absorbing states",
+      "mixing time"
+    ],
+    "exclusion_strings": [
+      "random walk",
+      "PageRank",
+      "random walk with restart",
+      "stationary distribution"
+    ]
+  },
+  {
+    "name": "Frank-Wolfe Algorithm",
+    "established_labels": [
+      22,
+      0
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "canonical_terms": [
+      "frank-wolfe",
+      "conditional gradient",
+      "linear minimization oracle",
+      "away-step frank-wolfe"
+    ],
+    "problem_structure_terms": [
+      "constrained convex optimization",
+      "linear approximation",
+      "feasible set projection",
+      "sparse iterates",
+      "polytope constraint",
+      "projection-free"
+    ],
+    "exclusion_strings": [
+      "frank-wolfe",
+      "conditional gradient method",
+      "linear minimization oracle"
+    ]
+  },
+  {
+    "name": "Expectation Maximization",
+    "established_labels": [
+      22,
+      0,
+      21,
+      7
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IT",
+      "cs.CV"
+    ],
+    "canonical_terms": [
+      "expectation maximization",
+      "EM algorithm",
+      "E-step",
+      "M-step",
+      "complete data likelihood"
+    ],
+    "problem_structure_terms": [
+      "hidden variable model",
+      "incomplete data",
+      "maximum likelihood estimation",
+      "latent variables",
+      "iterative parameter estimation",
+      "observed likelihood"
+    ],
+    "exclusion_strings": [
+      "expectation maximization",
+      "EM algorithm",
+      "E-step M-step",
+      "complete data",
+      " EM "
+    ]
+  },
+  {
+    "name": "Markov Chain Monte Carlo",
+    "established_labels": [
+      22,
+      0,
+      21,
+      38
+    ],
+    "established_domains": [
+      "cs.LG",
+      "cs.AI",
+      "cs.IT",
+      "cs.SI"
+    ],
+    "canonical_terms": [
+      "MCMC",
+      "markov chain monte carlo",
+      "gibbs sampling",
+      "metropolis-hastings",
+      "hamiltonian monte carlo"
+    ],
+    "problem_structure_terms": [
+      "posterior sampling",
+      "intractable distribution",
+      "stationary chain",
+      "detailed balance",
+      "mixing convergence",
+      "Monte Carlo integration"
+    ],
+    "exclusion_strings": [
+      "MCMC",
+      "markov chain monte carlo",
+      "gibbs sampling",
+      "metropolis-hastings"
+    ]
+  },
+  {
+    "name": "Min-Cut / Max-Flow",
+    "established_labels": [
+      13,
+      22,
+      7,
+      29
+    ],
+    "established_domains": [
+      "cs.DS",
+      "cs.LG",
+      "cs.CV",
+      "cs.NI"
+    ],
+    "canonical_terms": [
+      "min cut",
+      "max flow",
+      "Ford-Fulkerson",
+      "augmenting path",
+      "network flow"
+    ],
+    "problem_structure_terms": [
+      "capacity constraint",
+      "flow conservation",
+      "source sink network",
+      "bottleneck minimization",
+      "bipartite matching",
+      "residual graph"
+    ],
+    "exclusion_strings": [
+      "min cut",
+      "max flow",
+      "ford-fulkerson",
+      "augmenting path",
+      "network flow"
+    ]
+  }
+]
